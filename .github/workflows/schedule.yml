@@ -33,7 +33,7 @@ jobs:
     - name: Truncate
       run: |
         current_date=$(date "+%Y-%m-%d")
-        date_to_remove=$(date -d "$current_date - 45 days" "+%Y-%m-%d")
+        date_to_remove=$(date -d "$current_date - 10 days" "+%Y-%m-%d")
         sed -i "/$date_to_remove/d" README.md
         
     - name: Run Scraper
