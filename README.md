@@ -9,8 +9,9 @@
 <!-- TOC -->
 <!-- /TOC -->
 
-[All Language](#all-language)
-[Shell](#shell)
+[All Language](#all-language) 
+[Java](#java) 
+[Shell](#shell) 
 
 ## All language
 
