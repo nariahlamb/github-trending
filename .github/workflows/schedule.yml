@@ -3,6 +3,11 @@
 name: Daily Github Trending
 
 on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "*.py"
   schedule:
     - cron: "0 2 * * *"
 
