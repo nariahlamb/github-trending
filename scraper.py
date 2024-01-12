@@ -37,11 +37,12 @@ def scrape_url(url):
 def scrape_lang(language):
     ''' Scrape github trending with lang parameters
     '''
-    url = 'https://github.com/trending/{language}'.format(language=urllib.parse.quote_plus(language))
-    r1 = scrape_url(url)
+    # url = 'https://github.com/trending/{language}'.format(language=urllib.parse.quote_plus(language))
+    # r1 = scrape_url(url)
     url = 'https://github.com/trending/{language}?spoken_language_code=zh'.format(language=urllib.parse.quote_plus(language))
     r2 = scrape_url(url)
-    return { **r1, **r2 }
+    # return { **r1, **r2 }
+    return r2
 
 def write_markdown(lang, results, archived_contents):
     ''' Write the results to markdown file
