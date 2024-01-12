@@ -12,6 +12,8 @@
 [All Language](#all-language) 
 [Java](#java) 
 [Shell](#shell) 
+[PowerShell](#powershell) 
+[Unknown](#unknown) 
 
 ## All language
 
@@ -45,7 +47,7 @@
 * 【2024-01-12】[atuinsh / atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 * 【2024-01-12】[Portkey-AI / gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 * 【2024-01-12】[ProjectNUWA / DragNUWA](https://github.com/ProjectNUWA/DragNUWA) - 
-* 【2024-01-11】[ThePBone / tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.
+* 【2024-01-11】[该PBone / tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.
 * 【2024-01-11】[rauchg / next-ai-news](https://github.com/rauchg/next-ai-news) - 
 * 【2024-01-10】[ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) - 
 * 【2024-01-10】[rose-pine / neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
@@ -892,7 +894,7 @@
 * 【2023-12-01】[Francesc116 / TD](https://github.com/Francesc116/TD) - 
 * 【2023-12-01】[sabslikesobs / pip.wtf](https://github.com/sabslikesobs/pip.wtf) - Inline dependencies for small Python scripts.
 
-## Unknown
+## Unk现在n
 
 * 【2024-01-12】[Trinea / android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects, More powerful web version:
 * 【2024-01-12】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
