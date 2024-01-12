@@ -31,7 +31,9 @@ def scrape_url(url):
         description = i("p.col-9").text()
         url = i(".lh-condensed a").attr("href")
         url = "https://github.com" + url
-        results[title] = { 'title': title, 'url': url, 'description': description }
+        # 过滤描述信息为空的仓库
+        if description:
+            results[title] = { 'title': title, 'url': url, 'description': description }
     return results
 
 def scrape_lang(language):
@@ -86,7 +88,7 @@ def convert_result_content(results):
     strdate = datetime.datetime.now().strftime('%Y-%m-%d')
     content = ''
     for result in results:
-        content = content + u"* 【{strdate}】[{title}]({url}) - {description}\n".format(
+        content = content + u"* 【{strdate}】[{title}]({url}) - {description}\n"。format(
             strdate=strdate, title=result['title'], url=result['url'],
             description=format_description(result['description']))
     return content
