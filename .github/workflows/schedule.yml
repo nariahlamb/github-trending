@@ -34,7 +34,7 @@ jobs:
       run: |
         current_date=$(date "+%Y-%m-%d")
         ten_days_ago=$(date -d "$current_date - 10 days" "+%Y-%m-%d")
-        sed -i '/$ten_days_ago/d' README.MD
+        sed -i '/$ten_days_ago/d' README.md
         
     - name: Run Scraper
       run: |
