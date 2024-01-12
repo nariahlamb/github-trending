@@ -122,7 +122,7 @@ def job():
 
     ''' Start the scrape job
     '''
-    languages = ['', 'java', 'python', 'shell']
+    languages = ['', 'java', 'python', 'shell', 'batchfile', 'powershell', 'vbscript', 'unknown']
     for lang in languages:
         results = scrape_lang(lang)
         write_markdown(lang, results, archived_contents)
