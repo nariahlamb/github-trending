@@ -887,6 +887,27 @@
 
 ## Unknown
 
+* 【2024-01-12】[Trinea / android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects, More powerful web version:
+* 【2024-01-12】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+* 【2024-01-12】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+* 【2024-01-12】[567haofeiji / yingyuan](https://github.com/567haofeiji/yingyuan) - 
+* 【2024-01-12】[992tvshipin / dizhifabu](https://github.com/992tvshipin/dizhifabu) - 
+* 【2024-01-12】[61bcdefg / Hikari-LLVM15](https://github.com/61bcdefg/Hikari-LLVM15) - A fork of Hikari Obfuscator [WIP]
+* 【2024-01-12】[Alvin9999 / new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+* 【2024-01-12】[gfriends / gfriends](https://github.com/gfriends/gfriends) - 媒体服务器演员头像仓库
+* 【2024-01-12】[aqdx / latest](https://github.com/aqdx/latest) - 
+* 【2024-01-12】[imDazui / Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+* 【2024-01-12】[cbamls / AI_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总
+* 【2024-01-12】[Johnshall / Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
+* 【2024-01-12】[Pawdroid / Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
+* 【2024-01-12】[knownsec / 404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
+* 【2024-01-12】[waylau / harmonyos-tutorial](https://github.com/waylau/harmonyos-tutorial) - HarmonyOS Tutorial. 《跟老卫学HarmonyOS开发》
+* 【2024-01-12】[Arthurzhangsheng / CodeFormer_GUI](https://github.com/Arthurzhangsheng/CodeFormer_GUI) - CodeFormer人脸清晰化工具图形界面版，自带环境解压即用
+* 【2024-01-12】[ynwynw / allProject](https://github.com/ynwynw/allProject) - springboot 电商书城 springboot酒店预订管理管理 springboot超市管理系统 springboot + vue 超市管理系统 springboot 人事oa管理系统 springboot 房屋租赁系统 springboot 个人博客系统 springboot + vue 宠物交易/租赁系统 springboot 宠物商城 springboot 花店商城系统 （有报告） springboot 教务管理系统 springboot景区旅游系统 springboot电影购票系统 springboot网上商城 springboot网上商城-仿小米 springboot网上商城-仿天猫 springboot+vue图书管理系统 springboot+vue 教务管理系统 …
+* 【2024-01-12】[wolverinn / Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+* 【2024-01-12】[i2ii / i](https://github.com/i2ii/i) - 
+* 【2024-01-12】[qd-today / templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+* 【2024-01-12】[githubXiaowangzi / NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) - Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存、对话框取消、去除VPN/代理检测； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)； 一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG注入，一键去除所有弹窗(Toast)； 一键注入字符串解密LOG，Dex文件换包名； 一键添加禁止截屏，一键添加Apk崩溃日志记录； Apk超级混淆3.0--高效率直接对dex混淆，支持混淆四大组件，支持多dex； Apk功能--DEX混淆对抗；屏幕取色器；屏幕标尺。
 * 【2024-01-12】[upb-lea / Inkscape_electric_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Electrical symbol library for the vector graphics program Inkscape.
 * 【2024-01-12】[LadyKerr / github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
 * 【2024-01-12】[nerority / Advanced-GPTs](https://github.com/nerority/Advanced-GPTs) - Custom GPT Showcase, featuring advanced workflows and operational logic.
@@ -1033,3 +1054,6 @@
 * 【2024-01-12】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
 * 【2024-01-12】[YAWAsau / backup_script](https://github.com/YAWAsau/backup_script) - 備份數據腳本
 * 【2024-01-12】[chenzyadb / CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) - A Simple and Reliable Performance Scheduler.
+## Powershell
+
+* 【2024-01-12】[Mr-xn / Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
