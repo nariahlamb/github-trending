@@ -894,7 +894,7 @@
 * 【2023-12-01】[Francesc116 / TD](https://github.com/Francesc116/TD) - 
 * 【2023-12-01】[sabslikesobs / pip.wtf](https://github.com/sabslikesobs/pip.wtf) - Inline dependencies for small Python scripts.
 
-## Unk现在n
+## Unknown
 
 * 【2024-01-12】[Trinea / android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects, More powerful web version:
 * 【2024-01-12】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
