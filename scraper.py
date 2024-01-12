@@ -88,7 +88,7 @@ def convert_result_content(results):
     strdate = datetime.datetime.now().strftime('%Y-%m-%d')
     content = ''
     for result in results:
-        content = content + u"* 【{strdate}】[{title}]({url}) - {description}\n"。format(
+        content = content + u"* 【{strdate}】[{title}]({url}) - {description}\n".format(
             strdate=strdate, title=result['title'], url=result['url'],
             description=format_description(result['description']))
     return content
