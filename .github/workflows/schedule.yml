@@ -29,6 +29,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+
+    - name: Truncate
+      run: |
+        current_date=$(date "+%Y-%m-%d")
+        ten_days_ago=$(date -d "$current_date - 10 days" "+%Y-%m-%d")
+        sed -i '/$ten_days_ago/d' README.MD
         
     - name: Run Scraper
       run: |
