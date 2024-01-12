@@ -966,3 +966,24 @@
 * 【2023-12-01】[fempire / women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
 * 【2023-12-01】[arbackes / Livro_Python](https://github.com/arbackes/Livro_Python) - 
 * 【2023-12-01】[IDEA-Research / T-Rex](https://github.com/IDEA-Research/T-Rex) - Detect and count any objects by visual prompting
+## Shell
+
+* 【2024-01-12】[liuran001 / GJZS](https://github.com/liuran001/GJZS) - 搞机助手·R（原「搞机助手重制版」）
+* 【2024-01-12】[bioconda / bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
+* 【2024-01-12】[autowarefoundation / autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
+* 【2024-01-12】[antonbabenko / pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
+* 【2024-01-12】[ansible / ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
+* 【2024-01-12】[pingcap / docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD 中文文档
+* 【2024-01-12】[ONLYOFFICE / DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
+* 【2024-01-12】[super-linter / super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
+* 【2024-01-12】[tfutils / tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
+* 【2024-01-12】[olegos2 / mobox](https://github.com/olegos2/mobox) - 
+* 【2024-01-12】[jkroepke / helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+* 【2024-01-12】[openconfig / public](https://github.com/openconfig/public) - Repository for publishing OpenConfig models, documentation, and other material for the community.
+* 【2024-01-12】[taikoxyz / simple-taiko-node](https://github.com/taikoxyz/simple-taiko-node) - Start your Taiko node with a single command. 🌐
+* 【2024-01-12】[awslabs / amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
+* 【2024-01-12】[bitnami / containers](https://github.com/bitnami/containers) - Bitnami container images
+* 【2024-01-12】[hoochanlon / fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
+* 【2024-01-12】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
+* 【2024-01-12】[YAWAsau / backup_script](https://github.com/YAWAsau/backup_script) - 備份數據腳本
+* 【2024-01-12】[chenzyadb / CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) - A Simple and Reliable Performance Scheduler.
