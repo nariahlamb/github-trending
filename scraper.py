@@ -103,9 +103,10 @@ def format_description(description):
 def convert_lang_title(lang):
     ''' Lang title
     '''
-    if lang == '':
-        return '## All language'
-    return '## ' + lang.capitalize()
+    # if lang == '':
+    #     return '## All language'
+    # return '## ' + lang.capitalize()
+    return '## All language'
 
 def get_archived_contents():
     archived_contents = []
