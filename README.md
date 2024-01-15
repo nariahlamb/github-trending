@@ -8,6 +8,36 @@
 
 ## All language
 
+* 【2024-01-15】[kjfx / QuantumultX](https://github.com/kjfx/QuantumultX) - Quantumult X 新手入门教程
+* 【2024-01-15】[NAStool / nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+* 【2024-01-15】[xrayfree / free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) - 长期免费维护数个SSR/SS/V2RAY/VPN/CLASH订阅高速节点链接！电报群：https://t.me/xrayfree
+* 【2024-01-15】[hwanz / SSR-V2ray-Trojan-vpn](https://github.com/hwanz/SSR-V2ray-Trojan-vpn) - 免费机场公益机场收集/免费vpn-定时更新
+* 【2024-01-15】[kjfx / AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
+* 【2024-01-15】[dtlnor / stable-diffusion-webui-localization-zh_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN) - Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui
+* 【2024-01-15】[ddy-ddy / cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
+* 【2024-01-15】[L1Xu4n / Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
+* 【2024-01-15】[EhTagTranslation / Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
+* 【2024-01-15】[a406010503 / Miui_Camera](https://github.com/a406010503/Miui_Camera) - 一個基於 MIUI 13-14（Android 12-13）適配的 Magisk 相機模組。
+* 【2024-01-15】[lixi5338619 / lxSpider](https://github.com/lixi5338619/lxSpider) - 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》
+* 【2024-01-15】[auqhjjqdo / LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的全自动直播录制工具，已支持哔哩哔哩、斗鱼、虎牙、抖音、YouTube、Twitch等
+* 【2024-01-15】[RapidAI / RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
+* 【2024-01-15】[aicezam / SmartOnmyoji](https://github.com/aicezam/SmartOnmyoji) - 阴阳师后台代肝脚本，支持所有类似阴阳师的卡牌游戏（点点点游戏）自动找图-点击…（支持后台运行、支持多开、支持模拟器）
+* 【2024-01-15】[infstellar / genshin_impact_assistant](https://github.com/infstellar/genshin_impact_assistant) - 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托
+* 【2024-01-15】[krahets / LeetCode-Book](https://github.com/krahets/LeetCode-Book) - 《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码仓
+* 【2024-01-15】[DerekYRC / mini-spring-cloud](https://github.com/DerekYRC/mini-spring-cloud) - mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。
+* 【2024-01-15】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+* 【2024-01-15】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+* 【2024-01-15】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 和 Nintendo Switch上
+* 【2024-01-15】[Ruzim / NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex) - 国家自然科学基金申请书正文（面上项目）LaTeX 模板（非官方）
+* 【2024-01-15】[EhViewer-NekoInverter / EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer
+* 【2024-01-15】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+* 【2024-01-15】[Z-Siqi / Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+* 【2024-01-15】[xianyuyimu / TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
+* 【2024-01-15】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
+* 【2024-01-15】[abshare / abshare.github.io](https://github.com/abshare/abshare.github.io) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、翻墙软件、破解VPN、机场推荐、节点订阅、chatgpt节点、chatgpt机场、chatgpt代理
+* 【2024-01-15】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
+* 【2024-01-15】[opennaslab / kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
+* 【2024-01-15】[DSPBluePrints / FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
 * 【2024-01-14】[ChirmyRam / ChirmyRam-OneDrive-Repository](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) - ChirmyRam OneDrive Repository
 * 【2024-01-14】[HackJava / HackJava](https://github.com/HackJava/HackJava) - 《Java安全-只有Java安全才能拯救宇宙》Only Java Security Can Save The Universe.
 * 【2024-01-14】[osurf / ozdy](https://github.com/osurf/ozdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
