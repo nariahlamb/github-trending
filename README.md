@@ -8,6 +8,20 @@
 
 ## All language
 
+* 【2024-01-20】[Thecosy / IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
+* 【2024-01-20】[kuizuo / blog](https://github.com/kuizuo/blog) - 一个对 Docusaurus 进行魔改的博客
+* 【2024-01-20】[jsksxs360 / How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers) - Transformers 库快速入门教程
+* 【2024-01-20】[sngyai / Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
+* 【2024-01-20】[lonerge / tiktok_youtube_douyin_handling](https://github.com/lonerge/tiktok_youtube_douyin_handling) - 爬虫可视化; tiktok无水印视频; youtube无水印视频; 抖音无水印视频 视频搬运: tiktok/youtube的视频搬运到抖音; 抖音的视频搬运到tiktok获取youtube平台 搬运中的发布视频使用的selenium
+* 【2024-01-20】[91p2022 / 91](https://github.com/91p2022/91) - 91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发
+* 【2024-01-20】[didi / mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
+* 【2024-01-20】[xiaonuobase / Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
+* 【2024-01-20】[mymagicpower / AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。
+* 【2024-01-20】[PKM-er / Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz themes example vault for Obsidian
+* 【2024-01-20】[TonyChen56 / WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人 wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
+* 【2024-01-20】[fenwii / OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
+* 【2024-01-20】[XiaoMiku01 / fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
+* 【2024-01-20】[toly1994328 / FlutterUnit](https://github.com/toly1994328/FlutterUnit) - 【Flutter 集录指南 App】The unity of flutter, The unity of coder.
 * 【2024-01-19】[maomao1996 / Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
 * 【2024-01-19】[howie6879 / weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 * 【2024-01-19】[kangvcar / InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
