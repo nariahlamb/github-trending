@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-01-30】[PKM-er / Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz themes example vault for Obsidian
 * 【2024-01-29】[zouzhibin / zb-admin](https://github.com/zouzhibin/zb-admin) - 系统基于vite+vue3+pinia+element-plus+ts后台管理系统、一款开箱即用的 Vue 中后台管理系统框架， 兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
 * 【2024-01-29】[ChanceYu / front-end-rss](https://github.com/ChanceYu/front-end-rss) - 📙 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室
 * 【2024-01-29】[WhiteMinds / LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord) - 基于 Electron 的多平台直播自动录制软件
@@ -326,17 +327,3 @@
 * 【2024-01-21】[lcvvvv / kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
 * 【2024-01-21】[geektcp / everwar](https://github.com/geektcp/everwar) - everwar wow game server c++ 开源魔兽世界 https://everwar.cn
 * 【2024-01-21】[LorisYounger / VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-* 【2024-01-20】[Thecosy / IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
-* 【2024-01-20】[kuizuo / blog](https://github.com/kuizuo/blog) - 一个对 Docusaurus 进行魔改的博客
-* 【2024-01-20】[jsksxs360 / How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers) - Transformers 库快速入门教程
-* 【2024-01-20】[sngyai / Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
-* 【2024-01-20】[lonerge / tiktok_youtube_douyin_handling](https://github.com/lonerge/tiktok_youtube_douyin_handling) - 爬虫可视化; tiktok无水印视频; youtube无水印视频; 抖音无水印视频 视频搬运: tiktok/youtube的视频搬运到抖音; 抖音的视频搬运到tiktok获取youtube平台 搬运中的发布视频使用的selenium
-* 【2024-01-20】[91p2022 / 91](https://github.com/91p2022/91) - 91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发
-* 【2024-01-20】[didi / mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
-* 【2024-01-20】[xiaonuobase / Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
-* 【2024-01-20】[mymagicpower / AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。
-* 【2024-01-20】[PKM-er / Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz themes example vault for Obsidian
-* 【2024-01-20】[TonyChen56 / WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人 wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
-* 【2024-01-20】[fenwii / OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
-* 【2024-01-20】[XiaoMiku01 / fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
-* 【2024-01-20】[toly1994328 / FlutterUnit](https://github.com/toly1994328/FlutterUnit) - 【Flutter 集录指南 App】The unity of flutter, The unity of coder.
