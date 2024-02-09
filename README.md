@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2024-02-09】[xugaoyi / vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+* 【2024-02-09】[opennaslab / kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
+* 【2024-02-09】[likeyun / liKeYun_Ylb](https://github.com/likeyun/liKeYun_Ylb) - 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。
+* 【2024-02-09】[gallonyin / worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
+* 【2024-02-09】[PaPerseller / chn-iplist](https://github.com/PaPerseller/chn-iplist) - Chnroutes rules for routers、Shadowrocket、Quantumult、acl、v2rayNG、v2rayN、pac、Qv2ray、NekoRay、Nekobox、v2rayA、RouterOS、sing-box、v2ray config file.
+* 【2024-02-09】[qqqkoko123 / qianghongbao](https://github.com/qqqkoko123/qianghongbao) - 本插件适用： 1.8.0.45最新版的微信红包，收到红包AI智能播报，抢完并回复“感谢老板”； 2.V8.9.23的QQ普通红包，拼手气红包以及口令红包，在抢完的同时自动发送"感谢老板"防封； 3.支付宝10.3.26.8210最新版支付宝拼手气红包； 4.适用最新版钉钉6.5.55.6拼手气红包。 5.适用4.0.20的最新版企业微信 6.适用23.5.0的最新版抖音红包
+* 【2024-02-09】[PKM-er / Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz themes example vault for Obsidian
+* 【2024-02-09】[cnk3x / xunlei](https://github.com/cnk3x/xunlei) - 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
+* 【2024-02-09】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
 * 【2024-02-09】[Threekiii / Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库
 * 【2024-02-09】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 * 【2024-02-09】[WTFAcademy / WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
