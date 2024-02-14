@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-02-14】[PyQt5 / PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
+* 【2024-02-14】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+* 【2024-02-14】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
+* 【2024-02-14】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+* 【2024-02-14】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 * 【2024-02-13】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 * 【2024-02-13】[gonglei007 / GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
 * 【2024-02-13】[Soulter / AstrBot](https://github.com/Soulter/AstrBot) - QQ、QQ 频道、Telegram 上的 ChatGPT, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
@@ -225,38 +230,3 @@
 * 【2024-02-05】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 * 【2024-02-05】[hehonghui / awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 * 【2024-02-05】[Z-Siqi / Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-* 【2024-02-04】[LHRUN / paint-board](https://github.com/LHRUN/paint-board) - 🎨 A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
-* 【2024-02-04】[kuizuo / blog](https://github.com/kuizuo/blog) - 一个对 Docusaurus 进行魔改的博客
-* 【2024-02-04】[hoochanlon / fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
-* 【2024-02-04】[peasoft / NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。
-* 【2024-02-04】[mouday / domain-admin](https://github.com/mouday/domain-admin) - Domain and SSL Cert monitor System. 域名SSL证书监测平台
-* 【2024-02-04】[PyQt5 / PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
-* 【2024-02-04】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
-* 【2024-02-04】[NewFuture / DDNS](https://github.com/NewFuture/DDNS) - 🚩 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
-* 【2024-02-04】[hgjazhgj / FGO-py](https://github.com/hgjazhgj/FGO-py) - 自动每周任务新登场! 全自动免配置跨平台开箱即用的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?
-* 【2024-02-04】[EhTagTranslation / Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
-* 【2024-02-04】[wechatpay-apiv3 / wechatpay-php](https://github.com/wechatpay-apiv3/wechatpay-php) - 微信支付 APIv3 的官方 PHP Library，同时也支持 APIv2
-* 【2024-02-04】[91p2022 / 91](https://github.com/91p2022/91) - 91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发
-* 【2024-02-04】[SherlockGougou / BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - 🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。
-* 【2024-02-04】[dromara / MaxKey](https://github.com/dromara/MaxKey) - 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、自主可控。
-* 【2024-02-04】[jenly1314 / ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成更简单。（扫码识别速度快如微信）
-* 【2024-02-04】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
-* 【2024-02-04】[songquanpeng / wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
-* 【2024-02-04】[fenwii / OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
-* 【2024-02-04】[DGP-Studio / Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 实用的开源多功能原神工具箱 🧰 / Multifunctional Open-Source Genshin Impact Toolkit 🧰
-* 【2024-02-04】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-* 【2024-02-04】[RapidAI / RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
-* 【2024-02-04】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-* 【2024-02-04】[xianyuyimu / TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
-* 【2024-02-04】[SocialSisterYi / bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-* 【2024-02-04】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
-* 【2024-02-04】[krahets / LeetCode-Book](https://github.com/krahets/LeetCode-Book) - 《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码仓
-* 【2024-02-04】[Y4tacker / JavaSec](https://github.com/Y4tacker/JavaSec) - a rep for documenting my study, may be from 0 to 0.1
-* 【2024-02-04】[Mr-xn / Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
-* 【2024-02-04】[EndlessCheng / codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-* 【2024-02-04】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
-* 【2024-02-04】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
-* 【2024-02-04】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-* 【2024-02-04】[jeecgboot / JimuReport](https://github.com/jeecgboot/JimuReport) - 🔥「数据可视化报表工具」类似excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
-* 【2024-02-04】[xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
-* 【2024-02-04】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
