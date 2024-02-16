@@ -8,6 +8,23 @@
 
 ## All language
 
+* 【2024-02-16】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+* 【2024-02-16】[nihaojob / vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+* 【2024-02-16】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+* 【2024-02-16】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJs CRUD for RESTful API 使用 Nestjs + Mysql + Typeorm + Redis + Jwt + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
+* 【2024-02-16】[pmkol / easymosdns](https://github.com/pmkol/easymosdns) - 简化Mosdns基本功能使用的辅助脚本，仅需几分钟即可搭建一台支持ECS的无污染DNS服务器
+* 【2024-02-16】[cuifengcn / TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
+* 【2024-02-16】[Visualize-ML / Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！
+* 【2024-02-16】[Visualize-ML / Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) - Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！
+* 【2024-02-16】[smallfawn / QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库
+* 【2024-02-16】[ShirasawaSama / CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+* 【2024-02-16】[haizlin / fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+* 【2024-02-16】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
+* 【2024-02-16】[krahets / LeetCode-Book](https://github.com/krahets/LeetCode-Book) - 《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码仓
+* 【2024-02-16】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+* 【2024-02-16】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
+* 【2024-02-16】[pymumu / smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
+* 【2024-02-16】[Alvin9999 / new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 * 【2024-02-16】[chuzhixin / vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-02-16】[labring / laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 * 【2024-02-16】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
