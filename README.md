@@ -8,6 +8,19 @@
 
 ## All language
 
+* 【2024-03-04】[IDEA-CCNL / Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) - Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。
+* 【2024-03-04】[jsksxs360 / How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers) - Transformers 库快速入门教程
+* 【2024-03-04】[CoderWanFeng / PyOfficeRobot](https://github.com/CoderWanFeng/PyOfficeRobot) - pip install PyOfficeRobot，微信机器人
+* 【2024-03-04】[lonerge / tiktok_youtube_douyin_handling](https://github.com/lonerge/tiktok_youtube_douyin_handling) - 爬虫可视化; tiktok无水印视频; youtube无水印视频; 抖音无水印视频 视频搬运: tiktok/youtube的视频搬运到抖音; 抖音的视频搬运到tiktok获取youtube平台 搬运中的发布视频使用的selenium
+* 【2024-03-04】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+* 【2024-03-04】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
+* 【2024-03-04】[Charles7c / continew-admin](https://github.com/Charles7c/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
+* 【2024-03-04】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
+* 【2024-03-04】[sudoskys / StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌
+* 【2024-03-04】[Gooddbird / tinyrpc](https://github.com/Gooddbird/tinyrpc) - c++ async rpc framework. 14w+qps.
+* 【2024-03-04】[Tencent / UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.
+* 【2024-03-04】[digoal / blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
+* 【2024-03-04】[Cyril0563 / lanjing_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
 * 【2024-03-04】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 * 【2024-03-04】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2024-03-04】[oldratlee / useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
