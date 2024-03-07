@@ -8,6 +8,26 @@
 
 ## All language
 
+* 【2024-03-07】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+* 【2024-03-07】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+* 【2024-03-07】[Visualize-ML / Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！
+* 【2024-03-07】[opennaslab / kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
+* 【2024-03-07】[InsaneLife / ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus) - 中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。
+* 【2024-03-07】[Visualize-ML / Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) - Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！
+* 【2024-03-07】[shizq123 / BIKA](https://github.com/shizq123/BIKA) - 第三方哔咔漫画
+* 【2024-03-07】[anji-plus / report](https://github.com/anji-plus/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
+* 【2024-03-07】[redleafnew / Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
+* 【2024-03-07】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
+* 【2024-03-07】[f0ng / captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified) - captcha-killer的修改版，支持关键词识别base64编码的图片，添加免费ocr库，用于验证码爆破，适配新版Burpsuite
+* 【2024-03-07】[PlexPt / chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
+* 【2024-03-07】[crmeb / crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
+* 【2024-03-07】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+* 【2024-03-07】[jiujuan / go-collection](https://github.com/jiujuan/go-collection) - 🌷 awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。
+* 【2024-03-07】[weolar / miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+* 【2024-03-07】[HuangCongQing / pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
+* 【2024-03-07】[Tongsuo-Project / Tongsuo](https://github.com/Tongsuo-Project/Tongsuo) - 铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library
+* 【2024-03-07】[langhuihui / jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
+* 【2024-03-07】[AmazingAng / WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 * 【2024-03-07】[nihaojob / vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 * 【2024-03-07】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJs CRUD for RESTful API 使用 Nestjs + Mysql + Typeorm + Redis + Jwt + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 * 【2024-03-07】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
