@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2024-03-24】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+* 【2024-03-24】[dqzg12300 / fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
+* 【2024-03-24】[digoal / blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
+* 【2024-03-24】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+* 【2024-03-24】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
+* 【2024-03-24】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+* 【2024-03-24】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
+* 【2024-03-24】[cnk3x / xunlei](https://github.com/cnk3x/xunlei) - 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
+* 【2024-03-24】[lxgw / LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+* 【2024-03-24】[jeecgboot / jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
+* 【2024-03-24】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2024-03-23】[halo-dev / plugin-comment-widget](https://github.com/halo-dev/plugin-comment-widget) - 通用的 Halo 2.0 评论组件插件
 * 【2024-03-23】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 * 【2024-03-23】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
@@ -310,22 +321,3 @@
 * 【2024-03-15】[xianyuyimu / TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
 * 【2024-03-15】[forthespada / CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 * 【2024-03-15】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-* 【2024-03-14】[lich0821 / WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。
-* 【2024-03-14】[dqzg12300 / fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
-* 【2024-03-14】[Dod-o / Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
-* 【2024-03-14】[LuckyPray / XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
-* 【2024-03-14】[biuuu / genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
-* 【2024-03-14】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
-* 【2024-03-14】[cnk3x / xunlei](https://github.com/cnk3x/xunlei) - 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
-* 【2024-03-14】[Tencent / UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.
-* 【2024-03-14】[lxgw / LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-* 【2024-03-14】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
-* 【2024-03-14】[digoal / blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
-* 【2024-03-14】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
-* 【2024-03-14】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-* 【2024-03-14】[asLody / VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
-* 【2024-03-14】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
-* 【2024-03-14】[lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-* 【2024-03-14】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
-* 【2024-03-14】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-* 【2024-03-14】[jeecgboot / jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
