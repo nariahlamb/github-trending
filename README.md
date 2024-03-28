@@ -8,6 +8,26 @@
 
 ## All language
 
+* 【2024-03-28】[MotooriKashin / Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 恢复旧版Bilibili页面，为了那些念旧的人。
+* 【2024-03-28】[WhiteMinds / LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord) - 基于 Electron 的多平台直播自动录制软件
+* 【2024-03-28】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
+* 【2024-03-28】[cby-chen / Kubernetes](https://github.com/cby-chen/Kubernetes) - kubernetes (k8s) 二进制高可用安装，Binary installation of kubernetes (k8s) --- 开源不易，帮忙点个star，谢谢了🌹
+* 【2024-03-28】[Threekiii / Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库 Red Teaming and Offensive Security
+* 【2024-03-28】[infstellar / genshin_impact_assistant](https://github.com/infstellar/genshin_impact_assistant) - 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托
+* 【2024-03-28】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+* 【2024-03-28】[Leon406 / SubCrawler](https://github.com/Leon406/SubCrawler) - 节点爬取,筛选, google ping,支持Clash,base64订阅解析,生成可用的ss, ssr, v2ray, trojan,vless节点. (若不进行二次开发,请不要fork)
+* 【2024-03-28】[F9y4ng / GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索引擎助手 - Google & Baidu Switcher.user.js), etc.
+* 【2024-03-28】[lazy-luo / smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
+* 【2024-03-28】[haizlin / fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+* 【2024-03-28】[gaarason / database-all](https://github.com/gaarason/database-all) - Eloquent ORM for Java 8, 11, 17 and Spring boot 2.x , 3.x
+* 【2024-03-28】[datageartech / datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板
+* 【2024-03-28】[niudaii / zpscan](https://github.com/niudaii/zpscan) - 一个有点好用的信息收集工具。A somewhat useful information gathering tool.
+* 【2024-03-28】[hwholiday / learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
+* 【2024-03-28】[TheTNB / panel](https://github.com/TheTNB/panel) - 耗子 Linux 面板 - GO 开发的轻量 Linux 面板
+* 【2024-03-28】[Gooddbird / tinyrpc](https://github.com/Gooddbird/tinyrpc) - c++ async rpc framework. 14w+qps.
+* 【2024-03-28】[Tongsuo-Project / Tongsuo](https://github.com/Tongsuo-Project/Tongsuo) - 铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library
+* 【2024-03-28】[chokcoco / iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+* 【2024-03-28】[Johnshall / Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
 * 【2024-03-28】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 * 【2024-03-28】[hoochanlon / fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 * 【2024-03-28】[pmkol / easymosdns](https://github.com/pmkol/easymosdns) - 简化Mosdns基本功能使用的辅助脚本，仅需几分钟即可搭建一台支持ECS的无污染DNS服务器
