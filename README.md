@@ -8,6 +8,23 @@
 
 ## All language
 
+* 【2024-03-30】[zouzhibin / zb-admin](https://github.com/zouzhibin/zb-admin) - 系统基于vite+vue3+pinia+element-plus+ts后台管理系统、一款开箱即用的 Vue 中后台管理系统框架， 兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
+* 【2024-03-30】[ys1231 / MoveCertificate](https://github.com/ys1231/MoveCertificate) - 支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch
+* 【2024-03-30】[alibaba / tidevice](https://github.com/alibaba/tidevice) - tidevice can be used to communicate with iPhone device
+* 【2024-03-30】[Tongjilibo / bert4torch](https://github.com/Tongjilibo/bert4torch) - An elegent pytorch implement of transformers
+* 【2024-03-30】[zsokami / ACL4SSR](https://github.com/zsokami/ACL4SSR) - 自定义 订阅转换 配置转换 规则转换 的远程配置。正则匹配大小写、简繁体，更好的匹配中转、IPLC节点。自带旗帜 emoji 添加逻辑，原名不包含旗帜 emoji 才添加，原名已包含旗帜 emoji 则不添加。扩展 APP 广告拦截规则，对某些影视/动漫 APP 有加速奇效。修改自 ACL4SSR_Online_Full.ini
+* 【2024-03-30】[shibing624 / similarities](https://github.com/shibing624/similarities) - Similarities: a toolkit for similarity calculation and semantic search. 相似度计算、匹配搜索工具包，支持亿级数据文搜文、文搜图、图搜图，python3开发，开箱即用。
+* 【2024-03-30】[yeyang52 / yenai-plugin](https://github.com/yeyang52/yenai-plugin) - 适用于Yunzai-Botv3的扩展
+* 【2024-03-30】[Moli-X / Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
+* 【2024-03-30】[Y4tacker / JavaSec](https://github.com/Y4tacker/JavaSec) - a rep for documenting my study, may be from 0 to 0.1
+* 【2024-03-30】[ballcat-projects / ballcat](https://github.com/ballcat-projects/ballcat) - 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
+* 【2024-03-30】[crmeb / crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
+* 【2024-03-30】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
+* 【2024-03-30】[Qexo / Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+* 【2024-03-30】[qjfoidnh / BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
+* 【2024-03-30】[HIllya51 / LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。Visual Novel translate tool , support clipboard / OCR/ HOOK, support 40+ translate engines.
+* 【2024-03-30】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+* 【2024-03-30】[xiaolincoder / CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 * 【2024-03-30】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
 * 【2024-03-30】[fantastic-admin / basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
 * 【2024-03-30】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
