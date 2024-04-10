@@ -8,6 +8,37 @@
 
 ## All language
 
+* 【2024-04-10】[ChanceYu / front-end-rss](https://github.com/ChanceYu/front-end-rss) - 📙 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室
+* 【2024-04-10】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+* 【2024-04-10】[shidahuilang / shuyuan](https://github.com/shidahuilang/shuyuan) - 香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新
+* 【2024-04-10】[lonerge / tiktok_youtube_douyin_handling](https://github.com/lonerge/tiktok_youtube_douyin_handling) - 爬虫可视化; tiktok无水印视频; youtube无水印视频; 抖音无水印视频 视频搬运: tiktok/youtube的视频搬运到抖音; 抖音的视频搬运到tiktok获取youtube平台 搬运中的发布视频使用的selenium
+* 【2024-04-10】[kangvcar / InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+* 【2024-04-10】[test502git / awvs14-scan](https://github.com/test502git/awvs14-scan) - 针对 Acunetix AWVS扫描器开发的批量扫描脚本，支持log4j漏洞、SpringShell、SQL注入、XSS、弱口令等专项，支持联动xray、burp、w13scan等被动批量
+* 【2024-04-10】[Leon406 / SubCrawler](https://github.com/Leon406/SubCrawler) - 节点爬取,筛选, google ping,支持Clash,base64订阅解析,生成可用的ss, ssr, v2ray, trojan,vless节点. (若不进行二次开发,请不要fork)
+* 【2024-04-10】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player, The Best!
+* 【2024-04-10】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
+* 【2024-04-10】[WTFAcademy / WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
+* 【2024-04-10】[wangrongding / wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi ChatGPT / Kimi+ WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
+* 【2024-04-10】[pt-plugins / PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+* 【2024-04-10】[gaarason / database-all](https://github.com/gaarason/database-all) - Eloquent ORM for Java 8, 11, 17 and Spring boot 2.x , 3.x
+* 【2024-04-10】[f0ng / captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified) - captcha-killer的修改版，支持关键词识别base64编码的图片，添加免费ocr库，用于验证码爆破，适配新版Burpsuite
+* 【2024-04-10】[dromara / Jpom](https://github.com/dromara/Jpom) - 🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
+* 【2024-04-10】[godbasin / front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
+* 【2024-04-10】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+* 【2024-04-10】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
+* 【2024-04-10】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
+* 【2024-04-10】[yuesong-feng / 30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
+* 【2024-04-10】[hxhb / HotPatcher](https://github.com/hxhb/HotPatcher) - Unreal Engine hot update manage and package plugin.
+* 【2024-04-10】[mahuifa / QMDemo](https://github.com/mahuifa/QMDemo) - Qt日常开发的一些功能模块或者Qt库、三方库的使用Demo，例如FFmpeg、OpenCV、Web、QGraphicsView、OpenGL、网络编程、数据库、QSS样式表、QtChart图表绘制等。
+* 【2024-04-10】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+* 【2024-04-10】[weolar / miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+* 【2024-04-10】[wechat-miniprogram / minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform) - Wechat Mini Game Unity engine adapter documents.
+* 【2024-04-10】[langhuihui / jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
+* 【2024-04-10】[openctp / openctp](https://github.com/openctp/openctp) - openctp提供中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
+* 【2024-04-10】[Visualize-ML / Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！
+* 【2024-04-10】[easzlab / kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+* 【2024-04-10】[getActivity / XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 14
+* 【2024-04-10】[egametang / ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 * 【2024-04-09】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
 * 【2024-04-09】[fantastic-admin / basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
 * 【2024-04-09】[ys1231 / MoveCertificate](https://github.com/ys1231/MoveCertificate) - 支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch
@@ -275,32 +306,3 @@
 * 【2024-04-01】[ccfos / nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
 * 【2024-04-01】[zan8in / afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 * 【2024-04-01】[lizhipay / acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-* 【2024-03-31】[hangjob / vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🍁采用Vite4、Vue3、Pinia 、Naive UI 构建，构建企业npm依赖包中后台管理系统基础框架，做到框架(packages)和应用(app)分开，即可以减少项目之间的耦合，也能提升项目扩展性
-* 【2024-03-31】[mebtte / cicada](https://github.com/mebtte/cicada) - A multi-user music service for self-hosting.
-* 【2024-03-31】[zdz / ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-* 【2024-03-31】[kekeimiku / PointerSearcher-X](https://github.com/kekeimiku/PointerSearcher-X) - An application for finding memory pointers.
-* 【2024-03-31】[Visualize-ML / Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！
-* 【2024-03-31】[shidahuilang / shuyuan](https://github.com/shidahuilang/shuyuan) - 香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新
-* 【2024-03-31】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
-* 【2024-03-31】[91p2022 / 91](https://github.com/91p2022/91) - 91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发
-* 【2024-03-31】[tl-open-source / tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
-* 【2024-03-31】[deezertidal / QuantumultX-Rewrite](https://github.com/deezertidal/QuantumultX-Rewrite) - QuantumultX QX quantumult 圈X quanx 重写 脚本 rewrite 规则 分流 破解 解锁
-* 【2024-03-31】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
-* 【2024-03-31】[Charles7c / continew-admin](https://github.com/Charles7c/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
-* 【2024-03-31】[getActivity / EasyHttp](https://github.com/getActivity/EasyHttp) - Android 网络请求框架，简单易用，so easy
-* 【2024-03-31】[liu673cn / bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
-* 【2024-03-31】[mahuifa / QMDemo](https://github.com/mahuifa/QMDemo) - Qt日常开发的一些功能模块或者Qt库、三方库的使用Demo，例如FFmpeg、OpenCV、Web、QGraphicsView、OpenGL、网络编程、数据库、QSS样式表、QtChart图表绘制等。
-* 【2024-03-31】[jynew / jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
-* 【2024-03-31】[rebase-network / who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
-* 【2024-03-31】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
-* 【2024-03-31】[SchneeHertz / exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用, ExHentai local manga tag-manager and reader
-* 【2024-03-31】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-* 【2024-03-31】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player, The Best!
-* 【2024-03-31】[gallonyin / worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
-* 【2024-03-31】[pt-plugins / PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
-* 【2024-03-31】[getActivity / XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 14
-* 【2024-03-31】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
-* 【2024-03-31】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
-* 【2024-03-31】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-* 【2024-03-31】[openctp / openctp](https://github.com/openctp/openctp) - openctp提供中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
-* 【2024-03-31】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
