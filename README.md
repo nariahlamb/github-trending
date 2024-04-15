@@ -8,6 +8,22 @@
 
 ## All language
 
+* 【2024-04-15】[GuMengYu / music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
+* 【2024-04-15】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
+* 【2024-04-15】[spiritLHLS / ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+* 【2024-04-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
+* 【2024-04-15】[EhTagTranslation / Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
+* 【2024-04-15】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android
+* 【2024-04-15】[EhViewer-NekoInverter / EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer
+* 【2024-04-15】[cyao2q / files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
+* 【2024-04-15】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+* 【2024-04-15】[dream7180 / foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
+* 【2024-04-15】[aoaostar / legado](https://github.com/aoaostar/legado) - 阅读APP书源
+* 【2024-04-15】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+* 【2024-04-15】[Z-Siqi / Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+* 【2024-04-15】[xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
+* 【2024-04-15】[EndlessCheng / codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+* 【2024-04-15】[ngc660sec / NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！
 * 【2024-04-14】[lyt-Top / vue-next-admin](https://github.com/lyt-Top/vue-next-admin) - 🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）
 * 【2024-04-14】[Thecosy / IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 * 【2024-04-14】[volatile-static / Chartero](https://github.com/volatile-static/Chartero) - Chart in Zotero
@@ -295,34 +311,3 @@
 * 【2024-04-06】[abshare / abshare.github.io](https://github.com/abshare/abshare.github.io) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、翻墙软件、破解VPN、机场推荐、节点订阅、chatgpt节点、chatgpt机场、chatgpt代理
 * 【2024-04-06】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
 * 【2024-04-06】[Steamauto / Steamauto](https://github.com/Steamauto/Steamauto) - 免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
-* 【2024-04-05】[youngyangyang04 / PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
-* 【2024-04-05】[GuMengYu / music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
-* 【2024-04-05】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
-* 【2024-04-05】[chenzyadb / CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) - A Simple and Reliable Performance Scheduler.
-* 【2024-04-05】[gmg137 / netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
-* 【2024-04-05】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
-* 【2024-04-05】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-* 【2024-04-05】[SilverComet7 / yolov5-DNF](https://github.com/SilverComet7/yolov5-DNF) - 基于yolov5识别算法实现的DNF自动脚本
-* 【2024-04-05】[EhViewer-NekoInverter / EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer
-* 【2024-04-05】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android
-* 【2024-04-05】[cyao2q / files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
-* 【2024-04-05】[NAStool / nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-* 【2024-04-05】[RayWangQvQ / BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
-* 【2024-04-05】[hwanz / SSR-V2ray-Trojan-vpn](https://github.com/hwanz/SSR-V2ray-Trojan-vpn) - 免费机场公益机场收集/免费vpn-定时更新
-* 【2024-04-05】[immersive-translate / immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-* 【2024-04-05】[8838 / btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
-* 【2024-04-05】[EhTagTranslation / Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
-* 【2024-04-05】[vvandk / kinit](https://github.com/vvandk/kinit) - FastAPI + vue3 前后端分离后台管理系统，包含PC端，微信小程序端。接口使用：FastAPI+Pydantic+SQLAlchemy 2.0+Mysql，PC 端使用：Vue3+Typescript+Vite+Element Plus，小程序使用：Uni-APP + uview ui。异步存储，RBAC 权限管理，定时任务，部门管理等功能。
-* 【2024-04-05】[shibing624 / pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，LLaMA等模型应用在纠错场景，开箱即用。
-* 【2024-04-05】[ngc660sec / NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！
-* 【2024-04-05】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
-* 【2024-04-05】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
-* 【2024-04-05】[dream7180 / foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
-* 【2024-04-05】[Z-Siqi / Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-* 【2024-04-05】[aoaostar / legado](https://github.com/aoaostar/legado) - 阅读APP书源
-* 【2024-04-05】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-* 【2024-04-05】[EndlessCheng / codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-* 【2024-04-05】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
-* 【2024-04-05】[spiritLHLS / ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
-* 【2024-04-05】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-* 【2024-04-05】[xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
