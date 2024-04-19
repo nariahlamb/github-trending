@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-04-19】[fantastic-admin / basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
+* 【2024-04-19】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
+* 【2024-04-19】[ys1231 / MoveCertificate](https://github.com/ys1231/MoveCertificate) - 支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch
+* 【2024-04-19】[Moli-X / Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
+* 【2024-04-19】[likeyun / liKeYun_Ylb](https://github.com/likeyun/liKeYun_Ylb) - 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。
+* 【2024-04-19】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 chrome资源嗅探扩展
+* 【2024-04-19】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+* 【2024-04-19】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
+* 【2024-04-19】[HIllya51 / LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK等。Visual Novel translate tool , support clipboard / OCR/ HOOK
+* 【2024-04-19】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 * 【2024-04-18】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 * 【2024-04-18】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
 * 【2024-04-18】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
@@ -313,18 +323,3 @@
 * 【2024-04-10】[easzlab / kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 * 【2024-04-10】[getActivity / XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 14
 * 【2024-04-10】[egametang / ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
-* 【2024-04-09】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
-* 【2024-04-09】[fantastic-admin / basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
-* 【2024-04-09】[ys1231 / MoveCertificate](https://github.com/ys1231/MoveCertificate) - 支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch
-* 【2024-04-09】[shibing624 / text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
-* 【2024-04-09】[likeyun / liKeYun_Ylb](https://github.com/likeyun/liKeYun_Ylb) - 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。
-* 【2024-04-09】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 chrome资源嗅探扩展
-* 【2024-04-09】[Moli-X / Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
-* 【2024-04-09】[Y4tacker / JavaSec](https://github.com/Y4tacker/JavaSec) - a rep for documenting my study, may be from 0 to 0.1
-* 【2024-04-09】[Qexo / Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
-* 【2024-04-09】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
-* 【2024-04-09】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-* 【2024-04-09】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
-* 【2024-04-09】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-* 【2024-04-09】[HIllya51 / LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。Visual Novel translate tool , support clipboard / OCR/ HOOK, support 40+ translate engines.
-* 【2024-04-09】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
