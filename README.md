@@ -8,6 +8,19 @@
 
 ## All language
 
+* 【2024-04-23】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+* 【2024-04-23】[digoal / blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
+* 【2024-04-23】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
+* 【2024-04-23】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
+* 【2024-04-23】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+* 【2024-04-23】[91p2022 / 91](https://github.com/91p2022/91) - 91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发
+* 【2024-04-23】[krahets / hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+* 【2024-04-23】[DerekYRC / mini-spring](https://github.com/DerekYRC/mini-spring) - mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。
+* 【2024-04-23】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
+* 【2024-04-23】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+* 【2024-04-23】[dromara / RuoYi-Cloud-Plus](https://github.com/dromara/RuoYi-Cloud-Plus) - 重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba Dubbo3.0 Sa-Token Mybatis-Plus MQ OSS ES Xxl-Job Docker 全方位升级 定期同步
+* 【2024-04-23】[lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+* 【2024-04-23】[youngyangyang04 / Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀
 * 【2024-04-22】[lee1080 / CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
 * 【2024-04-22】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 * 【2024-04-22】[zdz / ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
@@ -296,32 +309,3 @@
 * 【2024-04-14】[peasoft / NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。
 * 【2024-04-14】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * 【2024-04-14】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-* 【2024-04-13】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-* 【2024-04-13】[why2lyj / youxiang-Itchat](https://github.com/why2lyj/youxiang-Itchat) - 无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。
-* 【2024-04-13】[JX3Toy / JX3Toy](https://github.com/JX3Toy/JX3Toy) - 自动化测试DPS的小工具
-* 【2024-04-13】[anji-plus / report](https://github.com/anji-plus/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
-* 【2024-04-13】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
-* 【2024-04-13】[91p2022 / 91](https://github.com/91p2022/91) - 91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发
-* 【2024-04-13】[dromara / lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。
-* 【2024-04-13】[DerekYRC / mini-spring](https://github.com/DerekYRC/mini-spring) - mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。
-* 【2024-04-13】[DerekYRC / mini-spring-cloud](https://github.com/DerekYRC/mini-spring-cloud) - mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。
-* 【2024-04-13】[youngyangyang04 / Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀
-* 【2024-04-13】[iamseancheney / python_for_data_analysis_2nd_chinese_version](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version) - 《利用Python进行数据分析·第2版》
-* 【2024-04-13】[ljinkai / weekly](https://github.com/ljinkai/weekly) - 独立开发产品变现周刊，每周五发布。
-* 【2024-04-13】[chokcoco / iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-* 【2024-04-13】[BITNP / BIThesis](https://github.com/BITNP/BIThesis) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）
-* 【2024-04-13】[knownsec / 404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-* 【2024-04-13】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-* 【2024-04-13】[zhongsp / TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-* 【2024-04-13】[InsaneLife / ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus) - 中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。
-* 【2024-04-13】[digoal / blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
-* 【2024-04-13】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
-* 【2024-04-13】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-* 【2024-04-13】[dromara / RuoYi-Cloud-Plus](https://github.com/dromara/RuoYi-Cloud-Plus) - 重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba Dubbo3.0 Sa-Token Mybatis-Plus MQ OSS ES Xxl-Job Docker 全方位升级 定期同步
-* 【2024-04-13】[asLody / VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
-* 【2024-04-13】[krahets / hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
-* 【2024-04-13】[lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-* 【2024-04-13】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
-* 【2024-04-13】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
-* 【2024-04-13】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
-* 【2024-04-13】[jeecgboot / jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
