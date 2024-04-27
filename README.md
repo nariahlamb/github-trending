@@ -8,6 +8,20 @@
 
 ## All language
 
+* 【2024-04-27】[IDEA-CCNL / Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) - Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。
+* 【2024-04-27】[0-8-4 / miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
+* 【2024-04-27】[JeffffffFu / Awesome-Differential-Privacy-and-Meachine-Learning](https://github.com/JeffffffFu/Awesome-Differential-Privacy-and-Meachine-Learning) - 机器学习和差分隐私的论文笔记和代码仓
+* 【2024-04-27】[ngc660sec / NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！
+* 【2024-04-27】[allenymt / PrivacySentry](https://github.com/allenymt/PrivacySentry) - Android隐私合规整改检测工具，注解+Asm修改字节码的检测方案
+* 【2024-04-27】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+* 【2024-04-27】[darryrzhong / Android-MvvmComponent-App](https://github.com/darryrzhong/Android-MvvmComponent-App) - Android 组件化开源app -开眼短视频(OpenEyes)
+* 【2024-04-27】[yulichang / mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join) - 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供wrapper.leftJoin(),wrapper.rightJoin()等操作
+* 【2024-04-27】[PlexPt / chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
+* 【2024-04-27】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
+* 【2024-04-27】[nntaoli-project / goex](https://github.com/nntaoli-project/goex) - Cryptocurrency Exchange Rest API SDK For Golang Wrapper Support okx,huobi,binance
+* 【2024-04-27】[limbopro / paolujichang](https://github.com/limbopro/paolujichang) - 跑路机场名单收集（2020-2024），欢迎投稿。
+* 【2024-04-27】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
+* 【2024-04-27】[hwanz / SSR-V2ray-Trojan-vpn](https://github.com/hwanz/SSR-V2ray-Trojan-vpn) - 免费机场公益机场收集/免费vpn-定时更新
 * 【2024-04-27】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 * 【2024-04-27】[LHRUN / paint-board](https://github.com/LHRUN/paint-board) - 🎨 A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
 * 【2024-04-27】[magicdawn / bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - [UserScript] 为 B 站首页添加像 App 一样的推荐
