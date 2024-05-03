@@ -8,6 +8,20 @@
 
 ## All language
 
+* 【2024-05-03】[ChanceYu / front-end-rss](https://github.com/ChanceYu/front-end-rss) - 📙 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室
+* 【2024-05-03】[lee1080 / CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
+* 【2024-05-03】[PyJun / Mooc_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，有道精品课，有道领世，腾讯课堂，B站课堂，中公网校，新东方，高途，途途，学浪，抖音课堂，小鹅通，千聊，兴趣岛，超星学习通，学银在线，智慧职教，智慧树，学堂在线，爱课程；支持视频课件同时下载
+* 【2024-05-03】[Threekiii / Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库 Red Teaming and Offensive Security
+* 【2024-05-03】[RockChinQ / QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 ChatGPT、Claude、Gemini Pro、Moonshot（月之暗面 ）、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人平台
+* 【2024-05-03】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
+* 【2024-05-03】[woniudiancang / bee](https://github.com/woniudiancang/bee) - 微信小程序-餐饮点餐外卖-开箱即用
+* 【2024-05-03】[razerdp / BasePopup](https://github.com/razerdp/BasePopup) - Android下打造通用便捷的PopupWindow弹窗库
+* 【2024-05-03】[songquanpeng / wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
+* 【2024-05-03】[geektcp / Everwar](https://github.com/geektcp/Everwar) - everwar wow game server c++ 开源魔兽世界 https://uewow.com
+* 【2024-05-03】[hxhb / HotPatcher](https://github.com/hxhb/HotPatcher) - Unreal Engine hot update manage and package plugin.
+* 【2024-05-03】[krahets / hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+* 【2024-05-03】[yichengchen / ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili Client Demo for Apple TV (tvOS)
+* 【2024-05-03】[DeSireFire / animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 * 【2024-05-03】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 * 【2024-05-03】[YaoFANGUK / video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
 * 【2024-05-03】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
