@@ -8,6 +8,22 @@
 
 ## All language
 
+* 【2024-05-11】[xyxiao001 / vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple picture clipping plugin for vue
+* 【2024-05-11】[haiibo / OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
+* 【2024-05-11】[a406010503 / Miui_Camera](https://github.com/a406010503/Miui_Camera) - 一個基於 MIUI 13-14（Android 12-13）適配的 Magisk 相機模組。
+* 【2024-05-11】[opendilab / PPOxFamily](https://github.com/opendilab/PPOxFamily) - PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ）
+* 【2024-05-11】[dongrixinyu / JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
+* 【2024-05-11】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+* 【2024-05-11】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player, The Best!
+* 【2024-05-11】[F9y4ng / GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索引擎助手 - Google & Baidu Switcher.user.js), etc.
+* 【2024-05-11】[yulichang / mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join) - 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供wrapper.leftJoin(),wrapper.rightJoin()等操作
+* 【2024-05-11】[yangzongzhuan / RuoYi-Vue-fast](https://github.com/yangzongzhuan/RuoYi-Vue-fast) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统
+* 【2024-05-11】[dromara / RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
+* 【2024-05-11】[alldatacenter / alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为中层框架，以大模型应用为上游产品，提供全链路数字化解决方案。全新会员商业版 X 微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+* 【2024-05-11】[jincheng9 / go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
+* 【2024-05-11】[Tencent / UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.
+* 【2024-05-11】[AmazingAng / WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
+* 【2024-05-11】[xiaolincoder / CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 * 【2024-05-11】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 * 【2024-05-11】[shibing624 / text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
 * 【2024-05-11】[awake1t / HackReport](https://github.com/awake1t/HackReport) - 渗透测试报告/资料文档/渗透经验文档/安全书籍
