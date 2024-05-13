@@ -8,6 +8,30 @@
 
 ## All language
 
+* 【2024-05-13】[zhongsp / TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
+* 【2024-05-13】[zdz / ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+* 【2024-05-13】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
+* 【2024-05-13】[PyJun / Mooc_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，有道精品课，有道领世，腾讯课堂，B站课堂，中公网校，新东方，高途，途途，学浪，抖音课堂，小鹅通，千聊，兴趣岛，超星学习通，学银在线，智慧职教，智慧树，学堂在线，爱课程；支持视频课件同时下载
+* 【2024-05-13】[YaoFANGUK / video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
+* 【2024-05-13】[NewFuture / DDNS](https://github.com/NewFuture/DDNS) - 🚩 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+* 【2024-05-13】[auqhjjqdo / LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的全自动直播录制工具，已支持哔哩哔哩、斗鱼、虎牙、抖音、YouTube、Twitch等
+* 【2024-05-13】[dqzg12300 / fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
+* 【2024-05-13】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+* 【2024-05-13】[chen-tf / price-tracker-bot](https://github.com/chen-tf/price-tracker-bot) - Telegram 聊天機器人，追蹤momo降價、重新上架
+* 【2024-05-13】[shidahuilang / shuyuan](https://github.com/shidahuilang/shuyuan) - 香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新
+* 【2024-05-13】[zq1997 / deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
+* 【2024-05-13】[Dod-o / Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
+* 【2024-05-13】[Ricardokevins / Bert-In-Relation-Extraction](https://github.com/Ricardokevins/Bert-In-Relation-Extraction) - 使用Bert完成实体之间关系抽取
+* 【2024-05-13】[guanguans / favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
+* 【2024-05-13】[woniudiancang / bee](https://github.com/woniudiancang/bee) - 微信小程序-餐饮点餐外卖-开箱即用
+* 【2024-05-13】[DerekYRC / mini-spring](https://github.com/DerekYRC/mini-spring) - mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。
+* 【2024-05-13】[jenly1314 / MLKit](https://github.com/jenly1314/MLKit) - 🌝 MLKit是一个强大易用的工具包。通过ML Kit您可以很轻松的实现文字识别、条码识别、图像标记、人脸检测、对象检测等功能。
+* 【2024-05-13】[Monibuca / engine](https://github.com/Monibuca/engine) - Monibuca 核心引擎，包含流媒体核心转发逻辑，需要配合功能插件一起组合运行
+* 【2024-05-13】[HuangCongQing / pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
+* 【2024-05-13】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+* 【2024-05-13】[Tongsuo-Project / Tongsuo](https://github.com/Tongsuo-Project/Tongsuo) - 铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library
+* 【2024-05-13】[imDazui / Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+* 【2024-05-13】[chika0801 / sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
 * 【2024-05-13】[ChanceYu / front-end-rss](https://github.com/ChanceYu/front-end-rss) - 📙 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室
 * 【2024-05-13】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 * 【2024-05-13】[digoal / blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
