@@ -8,6 +8,22 @@
 
 ## All language
 
+* 【2024-05-19】[yue1123 / vue3-baidu-map-gl](https://github.com/yue1123/vue3-baidu-map-gl) - 🎉百度地图 GL版 Vue3 组件库，baidu map gl components libary based on Vue3.0
+* 【2024-05-19】[cunyu1943 / JavaPark](https://github.com/cunyu1943/JavaPark) - ☕️「Java 自学指南」Java 学习保姆级教程、计算机基础、数据库、实战实践、效率工具、资源分享、程序人生。
+* 【2024-05-19】[lxhao61 / integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（v2 版）、Hysteria 等打造常用科学上网的最优组合示例及优化配置，且提供集成特定插件的 Caddy（v2 版） 程序，分享给大家食用及自己备份。
+* 【2024-05-19】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+* 【2024-05-19】[HIllya51 / LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK等。Visual Novel translate tool , support clipboard / OCR/ HOOK
+* 【2024-05-19】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+* 【2024-05-19】[DotNETWeekly-io / DotNetWeekly](https://github.com/DotNETWeekly-io/DotNetWeekly) - DotNet weekly newsletter
+* 【2024-05-19】[liangjingkanji / Net](https://github.com/liangjingkanji/Net) - Android 基于协程/OkHttp网络请求工具
+* 【2024-05-19】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与脚本，去广告合集。不止有QuantumultX脚本！
+* 【2024-05-19】[midoks / mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
+* 【2024-05-19】[TonyJiangWJ / Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
+* 【2024-05-19】[smart-cloud / smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于springboot && springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言、接口监控及服务监控等
+* 【2024-05-19】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment.
+* 【2024-05-19】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
+* 【2024-05-19】[Pawdroid / Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
+* 【2024-05-19】[jynew / jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
 * 【2024-05-19】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 * 【2024-05-19】[wzpan / wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 * 【2024-05-19】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
