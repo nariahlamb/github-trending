@@ -8,6 +8,24 @@
 
 ## All language
 
+* 【2024-05-30】[Hyk260 / PureChat](https://github.com/Hyk260/PureChat) - 基于 Vue3、Electron、Element-Plus 的清新优雅的聊天工作室(腾讯 IM 即时通讯) 用于学习参考，集成 ChatGPT(openai)
+* 【2024-05-30】[Travis-hjs / vue-admin](https://github.com/Travis-hjs/vue-admin) - 无 UI 框架依赖（默认 vue 3.x 版本）
+* 【2024-05-30】[xy-sea / web-see](https://github.com/xy-sea/web-see) - 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据
+* 【2024-05-30】[oldratlee / useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+* 【2024-05-30】[shibing624 / similarities](https://github.com/shibing624/similarities) - Similarities: a toolkit for similarity calculation and semantic search. 相似度计算、匹配搜索工具包，支持亿级数据文搜文、文搜图、图搜图，python3开发，开箱即用。
+* 【2024-05-30】[Threekiii / Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库 Red Teaming and Offensive Security
+* 【2024-05-30】[howarder3 / ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/ChatGPT-Linebot-using-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
+* 【2024-05-30】[iscyy / yoloair](https://github.com/iscyy/yoloair) - 🔥🔥🔥 专注于YOLOv5，YOLOv7、YOLOv8、YOLOv9改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
+* 【2024-05-30】[Petterpx / FloatingX](https://github.com/Petterpx/FloatingX) - Android上强大的悬浮窗组件，支持 系统浮窗(需要权限)、应用内浮窗(无权限)、局部悬浮(View)，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。Android without permission suspension window(App), support global(View), local suspension, support edge adsorption, rebound, custom animation, position saving, windowing and split-screen position repair.
+* 【2024-05-30】[EhViewer-NekoInverter / EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer
+* 【2024-05-30】[Sunny-117 / js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
+* 【2024-05-30】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与脚本，去广告合集。不止有QuantumultX脚本！
+* 【2024-05-30】[starcwang / easy_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
+* 【2024-05-30】[DerekYRC / mini-spring-cloud](https://github.com/DerekYRC/mini-spring-cloud) - mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。
+* 【2024-05-30】[dromara / RedisFront](https://github.com/dromara/RedisFront) - RedisFront 是一款开源免费的跨平台 Redis 桌面客户端工具, 支持单机模式, 集群模式, 哨兵模式以及 SSH 隧道连接, 欢迎下载使用.
+* 【2024-05-30】[songquanpeng / wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
+* 【2024-05-30】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
+* 【2024-05-30】[Planshit / Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 * 【2024-05-30】[hepengwei / visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 * 【2024-05-30】[PantsuDango / Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
 * 【2024-05-30】[WTFAcademy / WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
