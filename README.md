@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2024-06-06】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+* 【2024-06-06】[SocialSisterYi / bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+* 【2024-06-06】[smallfawn / QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
+* 【2024-06-06】[max32002 / tixcraft_bot](https://github.com/max32002/tixcraft_bot) - MaxBot open source code bot
+* 【2024-06-06】[CarGuo / GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+* 【2024-06-06】[nihaojob / vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 * 【2024-06-05】[starsliao / TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 * 【2024-06-05】[xugaoyi / vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 * 【2024-06-05】[kuizuo / blog](https://github.com/kuizuo/blog) - A Blog on Customizing Docusaurus
@@ -294,24 +300,3 @@
 * 【2024-05-28】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
 * 【2024-05-28】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 * 【2024-05-28】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-* 【2024-05-27】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
-* 【2024-05-27】[lich0821 / WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
-* 【2024-05-27】[maxiaof / github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
-* 【2024-05-27】[kongzue / DialogX](https://github.com/kongzue/DialogX) - 💬 DialogX dialog box component library, easy to use, more customizable, more scalable, easy to achieve a variety of dialog boxes. DialogX对话框组件库，更加方便易用，可自定义程度更高，扩展性更强，轻松实现各种对话框、菜单和提示效果，更有Material You、iOS、MIUI等主题扩展可选
-* 【2024-05-27】[CarGuo / GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
-* 【2024-05-27】[Johnshall / Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
-* 【2024-05-27】[gfriends / gfriends](https://github.com/gfriends/gfriends) - 媒体服务器演员头像仓库
-* 【2024-05-27】[hwanz / SSR-V2ray-Trojan-vpn](https://github.com/hwanz/SSR-V2ray-Trojan-vpn) - 免费机场公益机场收集/免费vpn-定时更新
-* 【2024-05-27】[nihaojob / vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
-* 【2024-05-27】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
-* 【2024-05-27】[lizhipay / acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-* 【2024-05-27】[smallfawn / QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
-* 【2024-05-27】[SocialSisterYi / bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-* 【2024-05-27】[PlexPt / chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
-* 【2024-05-27】[hehonghui / awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
-* 【2024-05-27】[shidahuilang / openwrt](https://github.com/shidahuilang/openwrt) - openwrt编译更新库X86-R2C-R2S-R4S-R5S-N1-小米MI系列等多机型全部适配OTA自动升级
-* 【2024-05-27】[hwholiday / learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
-* 【2024-05-27】[max32002 / tixcraft_bot](https://github.com/max32002/tixcraft_bot) - MaxBot open source code bot
-* 【2024-05-27】[ys1231 / MoveCertificate](https://github.com/ys1231/MoveCertificate) - 支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch
-* 【2024-05-27】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-* 【2024-05-27】[mao888 / golang-guide](https://github.com/mao888/golang-guide) - 「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！
