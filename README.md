@@ -8,6 +8,18 @@
 
 ## All language
 
+* 【2024-06-28】[lyt-Top / vue-next-admin](https://github.com/lyt-Top/vue-next-admin) - 🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）
+* 【2024-06-28】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+* 【2024-06-28】[opennaslab / kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
+* 【2024-06-28】[78778443 / QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
+* 【2024-06-28】[KyleBing / rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
+* 【2024-06-28】[dromara / lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 基于jdk21、jdk17、jdk11、jdk8 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。
+* 【2024-06-28】[shidahuilang / openwrt](https://github.com/shidahuilang/openwrt) - openwrt编译更新库X86-R2C-R2S-R4S-R5S-N1-小米MI系列等多机型全部适配OTA自动升级
+* 【2024-06-28】[LuckyPuppy514 / Play-With-MPV](https://github.com/LuckyPuppy514/Play-With-MPV) - 使用 MPV 播放网页中的视频
+* 【2024-06-28】[suyuan32 / simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于Go Zero开发面向小型到大型项目的分布式微服务后端管理系统脚手架，提供丰富的后台管理功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for large management system. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
+* 【2024-06-28】[wgpsec / ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
+* 【2024-06-28】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
+* 【2024-06-28】[easzlab / kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 * 【2024-06-28】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 * 【2024-06-28】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 * 【2024-06-28】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
