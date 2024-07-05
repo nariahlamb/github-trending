@@ -8,6 +8,19 @@
 
 ## All language
 
+* 【2024-07-05】[sonofmagic / weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
+* 【2024-07-05】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+* 【2024-07-05】[lee1080 / CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
+* 【2024-07-05】[dongrixinyu / JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
+* 【2024-07-05】[mouday / domain-admin](https://github.com/mouday/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
+* 【2024-07-05】[liangjingkanji / Net](https://github.com/liangjingkanji/Net) - Android 基于协程/OkHttp网络请求工具
+* 【2024-07-05】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+* 【2024-07-05】[getActivity / XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 14
+* 【2024-07-05】[dromara / MaxKey](https://github.com/dromara/MaxKey) - 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。
+* 【2024-07-05】[lcvvvv / kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
+* 【2024-07-05】[youngyangyang04 / Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀
+* 【2024-07-05】[Gooddbird / tinyrpc](https://github.com/Gooddbird/tinyrpc) - c++ async rpc framework. 14w+qps.
+* 【2024-07-05】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
 * 【2024-07-05】[RockChinQ / QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、GPT 4o、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
 * 【2024-07-05】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 * 【2024-07-05】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
