@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2024-07-12】[any86 / any-rule](https://github.com/any86/any-rule) - 🦕 常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
+* 【2024-07-12】[stupidloud / nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
+* 【2024-07-12】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
+* 【2024-07-12】[anji-plus / report](https://github.com/anji-plus/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
+* 【2024-07-12】[DerekYRC / mini-spring](https://github.com/DerekYRC/mini-spring) - mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。
+* 【2024-07-12】[suyuan32 / simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于Go Zero开发面向小型到大型项目的分布式微服务后端管理系统脚手架，提供丰富的后台管理功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for large management system. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
+* 【2024-07-12】[alldatacenter / alldata](https://github.com/alldatacenter/alldata) - AllData数据中台开源项目，以数据平台为底座，以数据中台为桥梁，以机器学习平台为中层框架，以大模型应用为上游产品，提供全链路数字化解决方案。加入技术社区：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+* 【2024-07-12】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+* 【2024-07-12】[AmazingAng / WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
 * 【2024-07-12】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue3 + vite5 + typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
 * 【2024-07-12】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
 * 【2024-07-12】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
