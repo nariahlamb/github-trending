@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2024-07-15】[midoks / mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
+* 【2024-07-15】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+* 【2024-07-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
+* 【2024-07-15】[ZhongFuCheng3y / austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台🔥 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
+* 【2024-07-15】[liu673cn / bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
+* 【2024-07-15】[lcvvvv / kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
+* 【2024-07-15】[youngyangyang04 / Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀
+* 【2024-07-15】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+* 【2024-07-15】[gfriends / gfriends](https://github.com/gfriends/gfriends) - 媒体服务器演员头像仓库
 * 【2024-07-15】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 * 【2024-07-15】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 * 【2024-07-15】[dromara / MaxKey](https://github.com/dromara/MaxKey) - 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。
