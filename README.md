@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2024-07-20】[HelloGitHub-Team / geese](https://github.com/HelloGitHub-Team/geese) - 一款基于 Next.js 构建的开源爱好者社区。这里有丰富的开源项目、真实的评论、文章，希望你能在这里找到开源的乐趣。
+* 【2024-07-20】[hellof2e / quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(移动端 UI 组件库，无框架，即插即用。)
+* 【2024-07-20】[521xueweihan / GitHub520](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+* 【2024-07-20】[shibing624 / pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，LLaMA等模型应用在纠错场景，开箱即用。
+* 【2024-07-20】[InsaneLife / ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus) - 中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。
+* 【2024-07-20】[zjhellofss / KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
+* 【2024-07-20】[iamseancheney / python_for_data_analysis_2nd_chinese_version](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version) - 《利用Python进行数据分析·第2版》
 * 【2024-07-20】[maomao1996 / Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
 * 【2024-07-20】[TangSY / echarts-map-demo](https://github.com/TangSY/echarts-map-demo) - 适用于echarts等地图geoJson行政区划边界数据的实时获取与应用，json格式数据，全国省市区县多级联动下钻，真正意义的下钻至县级【附最新全国省市区县乡镇三级或四级城市geoJson文件下载，另可下载四级联动或五级（村级）行政编码对应关系】
 * 【2024-07-20】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
