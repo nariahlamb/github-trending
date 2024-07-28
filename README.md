@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2024-07-28】[mokeyish / smartdns-rs](https://github.com/mokeyish/smartdns-rs) - A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
+* 【2024-07-28】[RockChinQ / QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、GPT 4o、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
+* 【2024-07-28】[zq1997 / deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
+* 【2024-07-28】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+* 【2024-07-28】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+* 【2024-07-28】[qiniu / java-sdk](https://github.com/qiniu/java-sdk) - Qiniu Resource (Cloud) Storage SDK for Java
+* 【2024-07-28】[gfriends / gfriends](https://github.com/gfriends/gfriends) - 媒体服务器演员头像仓库
 * 【2024-07-28】[oldratlee / useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 * 【2024-07-28】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 * 【2024-07-28】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
