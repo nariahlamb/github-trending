@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-07-30】[xy-sea / web-see](https://github.com/xy-sea/web-see) - 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据
+* 【2024-07-30】[MuiseDestiny / zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
+* 【2024-07-30】[dromara / Jpom](https://github.com/dromara/Jpom) - 🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
+* 【2024-07-30】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+* 【2024-07-30】[datavane / tis](https://github.com/datavane/tis) - Support agile DataOps Based on Flink, DataX and Flink-CDC, Chunjun with Web-UI
+* 【2024-07-30】[PKM-er / Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz themes example vault for Obsidian
+* 【2024-07-30】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+* 【2024-07-30】[wechat-miniprogram / minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform) - Wechat Mini Game Unity engine adapter documents.
+* 【2024-07-30】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+* 【2024-07-30】[immersive-translate / immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 * 【2024-07-30】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2024-07-30】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 * 【2024-07-30】[521xueweihan / GitHub520](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
