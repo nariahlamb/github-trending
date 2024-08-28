@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-08-28】[xugaoyi / vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+* 【2024-08-28】[any86 / any-rule](https://github.com/any86/any-rule) - 🦕 常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
+* 【2024-08-28】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+* 【2024-08-28】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+* 【2024-08-28】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+* 【2024-08-28】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
+* 【2024-08-28】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+* 【2024-08-28】[Tencent / UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.
+* 【2024-08-28】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
+* 【2024-08-28】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 * 【2024-08-27】[vvandk / kinit](https://github.com/vvandk/kinit) - FastAPI + vue3 前后端分离后台管理系统，包含PC端，微信小程序端。接口使用：FastAPI+Pydantic+SQLAlchemy 2.0+Mysql，PC 端使用：Vue3+Typescript+Vite+Element Plus，小程序使用：Uni-APP + uview ui。异步存储，RBAC 权限管理，定时任务，部门管理等功能。
 * 【2024-08-27】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 * 【2024-08-27】[JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具
@@ -178,22 +188,3 @@
 * 【2024-08-19】[lxgw / LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 * 【2024-08-19】[tangly1024 / NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 * 【2024-08-19】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-* 【2024-08-18】[SchneeHertz / exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用, ExHentai local manga tag-manager and reader
-* 【2024-08-18】[xugaoyi / vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-* 【2024-08-18】[kuizuo / blog](https://github.com/kuizuo/blog) - A Blog on Customizing Docusaurus
-* 【2024-08-18】[any86 / any-rule](https://github.com/any86/any-rule) - 🦕 常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
-* 【2024-08-18】[zdz / ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-* 【2024-08-18】[PantsuDango / Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
-* 【2024-08-18】[WTFAcademy / WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
-* 【2024-08-18】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-* 【2024-08-18】[tl-open-source / tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
-* 【2024-08-18】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
-* 【2024-08-18】[Tencent / UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.
-* 【2024-08-18】[starsliao / TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
-* 【2024-08-18】[sonofmagic / weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
-* 【2024-08-18】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-* 【2024-08-18】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
-* 【2024-08-18】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-* 【2024-08-18】[yulichang / mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join) - 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供wrapper.leftJoin(),wrapper.rightJoin()等操作
-* 【2024-08-18】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-* 【2024-08-18】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
