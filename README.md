@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2024-09-15】[SchneeHertz / exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用, ExHentai local manga tag-manager and reader
+* 【2024-09-15】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+* 【2024-09-15】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
+* 【2024-09-15】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
+* 【2024-09-15】[mirai-mamori / Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
+* 【2024-09-15】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
+* 【2024-09-15】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+* 【2024-09-15】[SocialSisterYi / bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 * 【2024-09-15】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-09-15】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
 * 【2024-09-15】[volatile-static / Chartero](https://github.com/volatile-static/Chartero) - Chart in Zotero
