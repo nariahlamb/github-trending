@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2024-09-27】[labring / laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.
+* 【2024-09-27】[midoks / mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
+* 【2024-09-27】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
+* 【2024-09-27】[WilliamXu96 / ABP-MicroService](https://github.com/WilliamXu96/ABP-MicroService) - 基于abp微服务架构的低代码平台
+* 【2024-09-27】[starcwang / easy_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
+* 【2024-09-27】[alldatacenter / alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为工厂，以大模型应用为上游产品，提供全链路数字化解决方案。采购商业版、加入技术社区：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+* 【2024-09-27】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-09-27】[chaos-zhu / easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH&webSFTP)
 * 【2024-09-27】[xugaoyi / vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 * 【2024-09-27】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
