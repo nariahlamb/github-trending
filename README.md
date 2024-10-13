@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2024-10-13】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator
+* 【2024-10-13】[shibing624 / pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，Qwen2.5等模型应用在纠错场景，开箱即用。
+* 【2024-10-13】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+* 【2024-10-13】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
+* 【2024-10-13】[lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+* 【2024-10-13】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+* 【2024-10-13】[pymumu / smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
+* 【2024-10-13】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+* 【2024-10-13】[crmeb / crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
 * 【2024-10-12】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
 * 【2024-10-12】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue3 + vite5 + typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
 * 【2024-10-12】[XiaoMiku01 / fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
@@ -153,25 +162,3 @@
 * 【2024-10-04】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 * 【2024-10-04】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
 * 【2024-10-04】[cnk3x / xunlei](https://github.com/cnk3x/xunlei) - 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
-* 【2024-10-03】[vvandk / kinit](https://github.com/vvandk/kinit) - FastAPI + vue3 前后端分离后台管理系统，包含PC端，微信小程序端。接口使用：FastAPI+Pydantic+SQLAlchemy 2.0+Mysql，PC 端使用：Vue3+Typescript+Vite+Element Plus，小程序使用：Uni-APP + uview ui。异步存储，RBAC 权限管理，定时任务，部门管理等功能。
-* 【2024-10-03】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 下载 Bilibili 视频/番剧/电影/纪录片 等资源
-* 【2024-10-03】[EricZhu-42 / SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
-* 【2024-10-03】[crmeb / crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
-* 【2024-10-03】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
-* 【2024-10-03】[lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-* 【2024-10-03】[armink / SFUD](https://github.com/armink/SFUD) - An using JEDEC's SFDP standard serial (SPI) flash universal driver library | 一款使用 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库
-* 【2024-10-03】[hihkm / DanmakuFactory](https://github.com/hihkm/DanmakuFactory) - 支持特殊弹幕的xml转ass格式转换工具
-* 【2024-10-03】[Tongsuo-Project / Tongsuo](https://github.com/Tongsuo-Project/Tongsuo) - 铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library
-* 【2024-10-03】[qd-today / templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
-* 【2024-10-03】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-* 【2024-10-03】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator
-* 【2024-10-03】[PantsuDango / Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
-* 【2024-10-03】[shibing624 / pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，LLaMA等模型应用在纠错场景，开箱即用。
-* 【2024-10-03】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
-* 【2024-10-03】[wkylin / pro-react-admin](https://github.com/wkylin/pro-react-admin) - 基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...
-* 【2024-10-03】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
-* 【2024-10-03】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-* 【2024-10-03】[pymumu / smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
-* 【2024-10-03】[RayWangQvQ / BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
-* 【2024-10-03】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
-* 【2024-10-03】[DSPBluePrints / FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
