@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2024-11-13】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+* 【2024-11-13】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+* 【2024-11-13】[Semporia / TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援 iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
+* 【2024-11-13】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+* 【2024-11-13】[EndlessCheng / codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+* 【2024-11-13】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 * 【2024-11-12】[starsliao / TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 * 【2024-11-12】[volatile-static / Chartero](https://github.com/volatile-static/Chartero) - Chart in Zotero
 * 【2024-11-12】[wzpan / wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
@@ -181,19 +187,3 @@
 * 【2024-11-04】[DerekYRC / mini-spring](https://github.com/DerekYRC/mini-spring) - mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。
 * 【2024-11-04】[glKarin / com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW on Android
 * 【2024-11-04】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-* 【2024-11-03】[chaos-zhu / easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH&webSFTP). 更新通知tg：
-* 【2024-11-03】[kuizuo / blog](https://github.com/kuizuo/blog) - A Blog on Customizing Docusaurus
-* 【2024-11-03】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
-* 【2024-11-03】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
-* 【2024-11-03】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-* 【2024-11-03】[lich0821 / WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
-* 【2024-11-03】[robin-shaun / XTDrone](https://github.com/robin-shaun/XTDrone) - UAV Simulation Platform based on PX4, ROS and Gazebo
-* 【2024-11-03】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player for Android Release, Feedback
-* 【2024-11-03】[dromara / domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
-* 【2024-11-03】[shibing624 / text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
-* 【2024-11-03】[Semporia / TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援 iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
-* 【2024-11-03】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
-* 【2024-11-03】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-* 【2024-11-03】[EndlessCheng / codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-* 【2024-11-03】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
-* 【2024-11-03】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
