@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2024-11-21】[zhongsp / TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
+* 【2024-11-21】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
+* 【2024-11-21】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
+* 【2024-11-21】[dromara / Jpom](https://github.com/dromara/Jpom) - 🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
+* 【2024-11-21】[Tencent / UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.
+* 【2024-11-21】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+* 【2024-11-21】[DGP-Studio / Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 实用的开源多功能原神工具箱 🧰 / Multifunctional Open-source Genshin Impact Toolkit 🧰
+* 【2024-11-21】[xiaolincoder / CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 * 【2024-11-21】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
 * 【2024-11-21】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 * 【2024-11-21】[stupidloud / nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
