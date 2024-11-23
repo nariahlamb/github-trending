@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2024-11-23】[textbus / textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
+* 【2024-11-23】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+* 【2024-11-23】[hgjazhgj / FGO-py](https://github.com/hgjazhgj/FGO-py) - 自动爬塔! 自动每周任务! 全自动免配置跨平台的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?
+* 【2024-11-23】[wzpan / wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
+* 【2024-11-23】[Semporia / TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援 iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
+* 【2024-11-23】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modification Based on BepInEx
+* 【2024-11-23】[egametang / ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
+* 【2024-11-23】[toly1994328 / FlutterUnit](https://github.com/toly1994328/FlutterUnit) - All Platform Flutter Experience App
 * 【2024-11-23】[tw93 / Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * 【2024-11-23】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2024-11-23】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
