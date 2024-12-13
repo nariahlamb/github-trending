@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2024-12-13】[Semporia / TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援 iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
+* 【2024-12-13】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+* 【2024-12-13】[darjun / go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
+* 【2024-12-13】[topiam / eiam](https://github.com/topiam/eiam) - 以开源为核心的IDaas/IAM平台，用于管理企业内员工账号、权限、身份认证、应用访问，帮助整合部署在本地或云端的内部办公系统、业务系统及三方 SaaS 系统的所有身份，实现一个账号打通所有应用的服务。
+* 【2024-12-13】[DGP-Studio / Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 实用的开源多功能原神工具箱 🧰 / Multifunctional Open-source Genshin Impact Toolkit 🧰
+* 【2024-12-13】[YSGStudyHards / DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+* 【2024-12-13】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2024-12-13】[tw93 / Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * 【2024-12-13】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 * 【2024-12-13】[MuiseDestiny / zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
