@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2024-12-25】[RapidAI / RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO and PaddlePaddle.
+* 【2024-12-25】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+* 【2024-12-25】[shibing624 / pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，Qwen2.5等模型应用在纠错场景，开箱即用。
+* 【2024-12-25】[digoal / blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
+* 【2024-12-25】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+* 【2024-12-25】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+* 【2024-12-25】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
+* 【2024-12-25】[PaddlePaddle / Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
+* 【2024-12-25】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
 * 【2024-12-24】[any86 / any-rule](https://github.com/any86/any-rule) - 🦕 常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 * 【2024-12-24】[MuiseDestiny / zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
 * 【2024-12-24】[crmeb / crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
@@ -160,24 +169,3 @@
 * 【2024-12-16】[lss233 / chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 * 【2024-12-16】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 * 【2024-12-16】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
-* 【2024-12-15】[SchneeHertz / exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用, ExHentai local manga tag-manager and reader
-* 【2024-12-15】[maomao1996 / Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
-* 【2024-12-15】[hgjazhgj / FGO-py](https://github.com/hgjazhgj/FGO-py) - 自动爬塔! 自动每周任务! 全自动免配置跨平台的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?
-* 【2024-12-15】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片 等资源
-* 【2024-12-15】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
-* 【2024-12-15】[DerekYRC / mini-spring](https://github.com/DerekYRC/mini-spring) - mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。
-* 【2024-12-15】[ClimbSnail / HoloCubic_AIO](https://github.com/ClimbSnail/HoloCubic_AIO) - HoloCubic超多功能AIO固件 基于esp32-arduino的天气时钟、相册、视频播放、桌面投屏、web服务、bilibili粉丝等
-* 【2024-12-15】[jynew / jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
-* 【2024-12-15】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
-* 【2024-12-15】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-* 【2024-12-15】[RapidAI / RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO and PaddlePaddle.
-* 【2024-12-15】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-* 【2024-12-15】[shibing624 / pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，Qwen2.5等模型应用在纠错场景，开箱即用。
-* 【2024-12-15】[digoal / blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
-* 【2024-12-15】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
-* 【2024-12-15】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-* 【2024-12-15】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-* 【2024-12-15】[go-musicfox / go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
-* 【2024-12-15】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
-* 【2024-12-15】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
-* 【2024-12-15】[PaddlePaddle / Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
