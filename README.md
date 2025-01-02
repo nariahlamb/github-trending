@@ -8,6 +8,19 @@
 
 ## All language
 
+* 【2025-01-02】[Thecosy / IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
+* 【2025-01-02】[youngyangyang04 / PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer. 最实用的vim配置🔥
+* 【2025-01-02】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on.
+* 【2025-01-02】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
+* 【2025-01-02】[EricZhu-42 / SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
+* 【2025-01-02】[KyleBing / rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
+* 【2025-01-02】[biuuu / genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
+* 【2025-01-02】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络编程框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 适用于网络游戏服务器、物联网、内部系统及各种需要长连接的场景； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分布式的网络服务器；FXGL、Unity、UE、Cocos Creator、Godot、Netty、Protobuf、webSocket、tcp、socket;java Netty 游戏服务器框架; Java Netty Game Server.
+* 【2025-01-02】[miaoermua / CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
+* 【2025-01-02】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+* 【2025-01-02】[zan8in / afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
+* 【2025-01-02】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+* 【2025-01-02】[DSPBluePrints / FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
 * 【2025-01-02】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2025-01-02】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue3 + vite5 + typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
 * 【2025-01-02】[tw93 / Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
