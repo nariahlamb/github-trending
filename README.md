@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2025-01-21】[starsliao / TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
+* 【2025-01-21】[Thecosy / IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
+* 【2025-01-21】[LuckyPray / XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
+* 【2025-01-21】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+* 【2025-01-21】[dromara / dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).
+* 【2025-01-21】[PaddlePaddle / Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
+* 【2025-01-21】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 * 【2025-01-21】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 * 【2025-01-21】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 * 【2025-01-21】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
