@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2025-01-25】[labring / laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.
+* 【2025-01-25】[XiaoMiku01 / fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
+* 【2025-01-25】[0-8-4 / miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
+* 【2025-01-25】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 * 【2025-01-25】[PantsuDango / Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
 * 【2025-01-25】[mirai-mamori / Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
 * 【2025-01-25】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
