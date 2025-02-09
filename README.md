@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2025-02-09】[stupidloud / nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
+* 【2025-02-09】[iscyy / ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 🔥🔥🔥 专注于YOLO11，YOLOv8、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
+* 【2025-02-09】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
+* 【2025-02-09】[haizlin / fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+* 【2025-02-09】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与去广告规则。
+* 【2025-02-09】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
+* 【2025-02-09】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 * 【2025-02-09】[Evil0ctal / Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 * 【2025-02-09】[Soulter / AstrBot](https://github.com/Soulter/AstrBot) - ✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信平台(Gewechat, 企业微信)、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。
 * 【2025-02-09】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
