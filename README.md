@@ -8,6 +8,18 @@
 
 ## All language
 
+* 【2025-02-28】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+* 【2025-02-28】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+* 【2025-02-28】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+* 【2025-02-28】[Dod-o / Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
+* 【2025-02-28】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+* 【2025-02-28】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+* 【2025-02-28】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片等资源。
+* 【2025-02-28】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+* 【2025-02-28】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
+* 【2025-02-28】[zjhellofss / KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
+* 【2025-02-28】[wechat-miniprogram / minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform) - Wechat Mini Game Unity engine adapter documents.
+* 【2025-02-28】[lich0821 / WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
 * 【2025-02-27】[Alvin9999 / new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
 * 【2025-02-27】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与去广告规则。
 * 【2025-02-27】[yulichang / mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join) - 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供wrapper.leftJoin(),wrapper.rightJoin()等操作
@@ -168,22 +180,3 @@
 * 【2025-02-19】[Evil0ctal / Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 * 【2025-02-19】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 * 【2025-02-19】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
-* 【2025-02-18】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
-* 【2025-02-18】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-* 【2025-02-18】[Dod-o / Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
-* 【2025-02-18】[0-8-4 / miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
-* 【2025-02-18】[lich0821 / WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
-* 【2025-02-18】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-* 【2025-02-18】[aaa1115910 / bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用。A third-party Android TV app for Bilibili.
-* 【2025-02-18】[getActivity / XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 14
-* 【2025-02-18】[zjhellofss / KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
-* 【2025-02-18】[youngyangyang04 / Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀
-* 【2025-02-18】[wechat-miniprogram / minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform) - Wechat Mini Game Unity engine adapter documents.
-* 【2025-02-18】[zotero-chinese / styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式 - Zotero 中文社区
-* 【2025-02-18】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-* 【2025-02-18】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
-* 【2025-02-18】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-* 【2025-02-18】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片 等资源
-* 【2025-02-18】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-* 【2025-02-18】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
-* 【2025-02-18】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
