@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2025-03-13】[xy-sea / web-see](https://github.com/xy-sea/web-see) - 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据
+* 【2025-03-13】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+* 【2025-03-13】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+* 【2025-03-13】[AmazingAng / WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
 * 【2025-03-13】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 * 【2025-03-13】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 * 【2025-03-13】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
