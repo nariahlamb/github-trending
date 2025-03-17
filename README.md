@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2025-03-17】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+* 【2025-03-17】[Tencent / APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+* 【2025-03-17】[Gooddbird / tinyrpc](https://github.com/Gooddbird/tinyrpc) - c++ async rpc framework. 14w+qps.
+* 【2025-03-17】[HIllya51 / LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 * 【2025-03-16】[pure-admin / vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 * 【2025-03-16】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 * 【2025-03-16】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
@@ -164,17 +168,3 @@
 * 【2025-03-08】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 * 【2025-03-08】[mqyqingfeng / Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 * 【2025-03-08】[lss233 / chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
-* 【2025-03-07】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-* 【2025-03-07】[sngyai / Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
-* 【2025-03-07】[CoderWanFeng / python-office](https://github.com/CoderWanFeng/python-office) - pip install python-office 自动化办公专用库
-* 【2025-03-07】[mirai-mamori / Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
-* 【2025-03-07】[SuperMonster003 / AutoJs6-Documentation](https://github.com/SuperMonster003/AutoJs6-Documentation) - Documentation (with generator) for AutoJs6 [AutoJs6 文档 (带生成器)]
-* 【2025-03-07】[datavane / tis](https://github.com/datavane/tis) - Support agile DataOps Based on Flink, DataX and Flink-CDC, Chunjun with Web-UI
-* 【2025-03-07】[Gooddbird / tinyrpc](https://github.com/Gooddbird/tinyrpc) - c++ async rpc framework. 14w+qps.
-* 【2025-03-07】[iamseancheney / python_for_data_analysis_2nd_chinese_version](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version) - 《利用Python进行数据分析·第2版》
-* 【2025-03-07】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
-* 【2025-03-07】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-* 【2025-03-07】[Tencent / APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
-* 【2025-03-07】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
-* 【2025-03-07】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
-* 【2025-03-07】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
