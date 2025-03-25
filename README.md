@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2025-03-25】[CoderWanFeng / python-office](https://github.com/CoderWanFeng/python-office) - pip install python-office 自动化办公专用库
+* 【2025-03-25】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+* 【2025-03-25】[valarchie / AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End) - 🔥 规范易于二开的全栈基础快速开发脚手架。🔥 采用Springboot + Vue 3 + Typescript + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！ 欢迎小伙伴PR，一起构建一个规范的全栈项目~😆
+* 【2025-03-25】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+* 【2025-03-25】[pymumu / smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT, DoQ。
+* 【2025-03-25】[RapidAI / RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 * 【2025-03-25】[Semporia / TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援 iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 * 【2025-03-25】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 * 【2025-03-25】[AnyLifeZLB / FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
