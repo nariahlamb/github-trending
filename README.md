@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2025-04-06】[HibiKier / zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
+* 【2025-04-06】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+* 【2025-04-06】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+* 【2025-04-06】[chika0801 / sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
+* 【2025-04-06】[jitwxs / 163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 云音乐歌词获取【网易云、QQ音乐】
 * 【2025-04-06】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 * 【2025-04-06】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 * 【2025-04-06】[smallfawn / QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
