@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2025-04-16】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
+* 【2025-04-16】[iscyy / ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 🔥🔥🔥 专注于YOLO11，YOLOv8、TYOLOv12、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
+* 【2025-04-16】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络编程框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 适用于网络游戏服务器、物联网、内部系统及各种需要长连接的场景； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分布式的网络服务器；FXGL、Unity、UE、Cocos Creator、Godot、Netty、Protobuf、webSocket、tcp、socket;java Netty 游戏服务器框架; Java Netty Game Server.
+* 【2025-04-16】[tickstep / aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
+* 【2025-04-16】[zan8in / afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
+* 【2025-04-16】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 * 【2025-04-16】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 * 【2025-04-16】[smallfawn / QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
 * 【2025-04-16】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
