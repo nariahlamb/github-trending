@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2025-04-19】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+* 【2025-04-19】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+* 【2025-04-19】[Super-Badmen-Viper / NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
+* 【2025-04-19】[lich0821 / WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
+* 【2025-04-19】[asLody / VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
+* 【2025-04-19】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+* 【2025-04-19】[wechat-miniprogram / minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform) - Wechat Mini Game Unity engine adapter documents.
+* 【2025-04-19】[SeeFlowerX / stackplz](https://github.com/SeeFlowerX/stackplz) - 基于eBPF的堆栈追踪工具
+* 【2025-04-19】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+* 【2025-04-19】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+* 【2025-04-19】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 * 【2025-04-18】[vvandk / kinit](https://github.com/vvandk/kinit) - FastAPI + vue3 前后端分离后台管理系统，包含PC端，微信小程序端。接口使用：FastAPI+Pydantic+SQLAlchemy 2.0+Mysql，PC 端使用：Vue3+Typescript+Vite+Element Plus，小程序使用：Uni-APP + uview ui。异步存储，RBAC 权限管理，定时任务，部门管理等功能。
 * 【2025-04-18】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
 * 【2025-04-18】[anji-plus / report](https://github.com/anji-plus/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
@@ -161,21 +172,3 @@
 * 【2025-04-10】[continew-org / continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
 * 【2025-04-10】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 * 【2025-04-10】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，同时又不失灵活性
-* 【2025-04-09】[Super-Badmen-Viper / NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
-* 【2025-04-09】[labring / laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.
-* 【2025-04-09】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-* 【2025-04-09】[asLody / VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
-* 【2025-04-09】[robin-shaun / XTDrone](https://github.com/robin-shaun/XTDrone) - UAV Simulation Platform based on PX4, ROS and Gazebo
-* 【2025-04-09】[SeeFlowerX / stackplz](https://github.com/SeeFlowerX/stackplz) - 基于eBPF的堆栈追踪工具
-* 【2025-04-09】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-* 【2025-04-09】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
-* 【2025-04-09】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
-* 【2025-04-09】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
-* 【2025-04-09】[chaos-zhu / easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
-* 【2025-04-09】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
-* 【2025-04-09】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片等资源。
-* 【2025-04-09】[lich0821 / WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
-* 【2025-04-09】[aaa1115910 / bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用。A third-party Android TV app for Bilibili.
-* 【2025-04-09】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
-* 【2025-04-09】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
-* 【2025-04-09】[wechat-miniprogram / minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform) - Wechat Mini Game Unity engine adapter documents.
