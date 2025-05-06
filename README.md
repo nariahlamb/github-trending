@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2025-05-06】[SchneeHertz / exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用, ExHentai local manga tag-manager and reader
+* 【2025-05-06】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+* 【2025-05-06】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+* 【2025-05-06】[0-8-4 / miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
+* 【2025-05-06】[lcvvvv / kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
 * 【2025-05-06】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2025-05-06】[wkylin / pro-react-admin](https://github.com/wkylin/pro-react-admin) - 融合了 React 19、Webpack 5、React Router 7、Antd 5、Typescript 5、Tailwindcss 4 及 Fetch Api 的企业级中台基础模板，为大规模系统提供技术底座，助力企业数字化转型...
 * 【2025-05-06】[go-musicfox / go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
