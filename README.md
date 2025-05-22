@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-05-22】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 * 【2025-05-22】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2025-05-22】[getActivity / XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 15
 * 【2025-05-22】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
