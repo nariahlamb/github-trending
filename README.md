@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2025-06-21】[chaos-zhu / easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
+* 【2025-06-21】[shibing624 / pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，Qwen2.5等模型应用在纠错场景，开箱即用。
+* 【2025-06-21】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem.
+* 【2025-06-21】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+* 【2025-06-21】[AnyLifeZLB / FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
+* 【2025-06-21】[yulichang / mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join) - 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供wrapper.leftJoin(),wrapper.rightJoin()等操作
+* 【2025-06-21】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
+* 【2025-06-21】[glKarin / com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/FTEQW/OpenJK on Android
+* 【2025-06-21】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+* 【2025-06-21】[iamseancheney / python_for_data_analysis_2nd_chinese_version](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version) - 《利用Python进行数据分析·第2版》
 * 【2025-06-21】[digoal / blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 * 【2025-06-21】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2025-06-21】[wangrongding / wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
