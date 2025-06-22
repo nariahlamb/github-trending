@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2025-06-22】[jsksxs360 / How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers) - Transformers 库快速入门教程
+* 【2025-06-22】[NewFuture / DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+* 【2025-06-22】[dromara / domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
+* 【2025-06-22】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+* 【2025-06-22】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+* 【2025-06-22】[witersen / SvnAdminV2.0](https://github.com/witersen/SvnAdminV2.0) - 基于web的SVN管理系统，支持HTTP协议、SVN协议、支持LDAP认证、Docker部署
+* 【2025-06-22】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
+* 【2025-06-22】[cnk3x / xunlei](https://github.com/cnk3x/xunlei) - 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
 * 【2025-06-22】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 * 【2025-06-22】[zhayujie / chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 * 【2025-06-22】[wzpan / wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
