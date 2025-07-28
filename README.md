@@ -8,6 +8,18 @@
 
 ## All language
 
+* 【2025-07-28】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+* 【2025-07-28】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
+* 【2025-07-28】[Boris-code / feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度
+* 【2025-07-28】[shibing624 / text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
+* 【2025-07-28】[SuperMonster003 / AutoJs6-Documentation](https://github.com/SuperMonster003/AutoJs6-Documentation) - Documentation (with generator) for AutoJs6 [AutoJs6 文档 (带生成器)]
+* 【2025-07-28】[enzeberg / tonzhon-music](https://github.com/enzeberg/tonzhon-music) - 铜钟 (https://tonzhon.whamon.com/): 免费听歌, 下载; 只有音乐, 无广告, 社交; 简洁纯粹, 资源丰富, 体验独特！(铜钟已将域名更新为 tonzhon.whamon.com，现在的 tonzhon.com 不是正版的铜钟)
+* 【2025-07-28】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
+* 【2025-07-28】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
+* 【2025-07-28】[jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+* 【2025-07-28】[jitwxs / 163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
+* 【2025-07-28】[egametang / ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
+* 【2025-07-28】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 * 【2025-07-28】[Super-Badmen-Viper / NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
 * 【2025-07-28】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 * 【2025-07-28】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片等资源。
