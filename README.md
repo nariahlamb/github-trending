@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2025-07-29】[ikuaitu / vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+* 【2025-07-29】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
+* 【2025-07-29】[nachifur / MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
+* 【2025-07-29】[LuckyPray / XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
+* 【2025-07-29】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+* 【2025-07-29】[WTFAcademy / WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
+* 【2025-07-29】[dromara / dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).
+* 【2025-07-29】[cnk3x / xunlei](https://github.com/cnk3x/xunlei) - 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
+* 【2025-07-29】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+* 【2025-07-29】[Tongsuo-Project / Tongsuo](https://github.com/Tongsuo-Project/Tongsuo) - 铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library
+* 【2025-07-29】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 * 【2025-07-29】[chokcoco / iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 * 【2025-07-29】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 * 【2025-07-29】[521xueweihan / GitHub520](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
