@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-08-17】[Super-Badmen-Viper / NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
+* 【2025-08-17】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络编程框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 适用于网络游戏服务器、物联网、内部系统及各种需要长连接的场景； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分布式的网络服务器；FXGL、Unity、UE、Cocos Creator、Godot、Netty、Protobuf、webSocket、tcp、socket;java Netty 游戏服务器框架; Java Netty Game Server.
+* 【2025-08-17】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 * 【2025-08-17】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2025-08-17】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 * 【2025-08-17】[aaa1115910 / bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
