@@ -9,7 +9,7 @@ on:
     paths:
       - "*.py"
   schedule:
-    - cron: "0 */13 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -64,3 +64,4 @@ jobs:
         retain_days: 2
         keep_minimum_runs: 3
         
+
