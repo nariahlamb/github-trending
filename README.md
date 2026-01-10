@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2026-01-10】[whyour / qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+* 【2026-01-10】[hgjazhgj / FGO-py](https://github.com/hgjazhgj/FGO-py) - 自动爬塔! 自动每周任务! 全自动免配置跨平台的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?
+* 【2026-01-10】[tangly1024 / NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+* 【2026-01-10】[langhuihui / jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
+* 【2026-01-10】[jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+* 【2026-01-10】[SocialSisterYi / bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+* 【2026-01-10】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 * 【2026-01-10】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2026-01-10】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 * 【2026-01-09】[xugaoyi / vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
