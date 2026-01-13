@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2026-01-13】[lxgw / LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+* 【2026-01-13】[opendilab / PPOxFamily](https://github.com/opendilab/PPOxFamily) - PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ）
+* 【2026-01-13】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
+* 【2026-01-13】[alibaba / havenask](https://github.com/alibaba/havenask) - Havenask is a large-scale distributed information search system widely used within Alibaba Group
+* 【2026-01-13】[pymumu / smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
+* 【2026-01-13】[SeeFlowerX / stackplz](https://github.com/SeeFlowerX/stackplz) - 基于eBPF的堆栈追踪工具
+* 【2026-01-13】[easzlab / kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+* 【2026-01-13】[immersive-translate / immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+* 【2026-01-13】[bufanyun / hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
 * 【2026-01-12】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 * 【2026-01-12】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2026-01-12】[pt-plugins / PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
@@ -140,11 +149,3 @@
 * 【2026-01-04】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * 【2026-01-04】[Johnshall / Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 * 【2026-01-04】[qjfoidnh / BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
-* 【2026-01-03】[lxgw / LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-* 【2026-01-03】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
-* 【2026-01-03】[Z-Siqi / Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-* 【2026-01-03】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
-* 【2026-01-03】[yangzongzhuan / RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
-* 【2026-01-03】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-* 【2026-01-03】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
-* 【2026-01-03】[pymumu / smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
