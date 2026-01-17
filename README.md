@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2026-01-17】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator 支持Windows Linux macOS
+* 【2026-01-17】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+* 【2026-01-17】[yym68686 / ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.
+* 【2026-01-17】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
+* 【2026-01-17】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - Bili23 Downloader 是一款跨平台（Windows/Linux/macOS）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。支持多线程加速、断点续传等特性，搭配图形化界面与零配置操作，提供高效便捷的下载体验。
+* 【2026-01-17】[PantsuDango / Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
+* 【2026-01-17】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+* 【2026-01-17】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+* 【2026-01-17】[OFA-Sys / Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
+* 【2026-01-17】[Planshit / Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 * 【2026-01-17】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 Vue 3 + Vite 7+ TypeScript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
 * 【2026-01-17】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 * 【2026-01-17】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
