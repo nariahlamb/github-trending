@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2026-01-29】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator 支持Windows Linux macOS
+* 【2026-01-29】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+* 【2026-01-29】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+* 【2026-01-29】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+* 【2026-01-29】[PantsuDango / Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
+* 【2026-01-29】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
+* 【2026-01-29】[wangrongding / wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
+* 【2026-01-29】[dream7180 / foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
+* 【2026-01-29】[wgpsec / ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
+* 【2026-01-29】[yuesong-feng / 30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
+* 【2026-01-29】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 * 【2026-01-28】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 * 【2026-01-28】[jsksxs360 / How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers) - Transformers 库快速入门教程
 * 【2026-01-28】[opendilab / PPOxFamily](https://github.com/opendilab/PPOxFamily) - PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ）
@@ -127,12 +138,3 @@
 * 【2026-01-20】[xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
 * 【2026-01-20】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * 【2026-01-20】[DSPBluePrints / FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
-* 【2026-01-19】[crmeb / crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
-* 【2026-01-19】[Boris-code / feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度
-* 【2026-01-19】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
-* 【2026-01-19】[dream7180 / foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
-* 【2026-01-19】[wangrongding / wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
-* 【2026-01-19】[haizlin / fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-* 【2026-01-19】[biuuu / genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
-* 【2026-01-19】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
-* 【2026-01-19】[forthespada / CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
