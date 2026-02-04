@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2026-02-04】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+* 【2026-02-04】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
+* 【2026-02-04】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+* 【2026-02-04】[go-musicfox / go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
+* 【2026-02-04】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+* 【2026-02-04】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+* 【2026-02-04】[coolsnowwolf / lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+* 【2026-02-04】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+* 【2026-02-04】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+* 【2026-02-04】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+* 【2026-02-04】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 * 【2026-02-03】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 * 【2026-02-03】[qjfoidnh / BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
 * 【2026-02-03】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / moltbot / openclaw
@@ -109,17 +120,3 @@
 * 【2026-01-26】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2026-01-26】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 * 【2026-01-26】[OI-wiki / OI-wiki](https://github.com/OI-wiki/OI-wiki) - 🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-* 【2026-01-25】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
-* 【2026-01-25】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-* 【2026-01-25】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-* 【2026-01-25】[Dod-o / Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
-* 【2026-01-25】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
-* 【2026-01-25】[TonyJiangWJ / Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
-* 【2026-01-25】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-* 【2026-01-25】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
-* 【2026-01-25】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-* 【2026-01-25】[yangzongzhuan / RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
-* 【2026-01-25】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-* 【2026-01-25】[coolsnowwolf / lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
-* 【2026-01-25】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-* 【2026-01-25】[AmazingAng / WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
