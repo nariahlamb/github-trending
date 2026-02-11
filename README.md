@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2026-02-11】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+* 【2026-02-11】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
+* 【2026-02-11】[yuesong-feng / 30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
+* 【2026-02-11】[openctp / openctp](https://github.com/openctp/openctp) - openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
+* 【2026-02-11】[Planshit / Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
+* 【2026-02-11】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 * 【2026-02-11】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 * 【2026-02-11】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 * 【2026-02-11】[Qexo / Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
