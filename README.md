@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2026-02-12】[ShirasawaSama / CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+* 【2026-02-12】[opsre / go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
+* 【2026-02-12】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
+* 【2026-02-12】[LorisYounger / VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+* 【2026-02-12】[DSPBluePrints / FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
+* 【2026-02-12】[AmazingAng / WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
+* 【2026-02-12】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+* 【2026-02-12】[egametang / ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 * 【2026-02-12】[OI-wiki / OI-wiki](https://github.com/OI-wiki/OI-wiki) - 🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 * 【2026-02-12】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * 【2026-02-12】[pymumu / smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
