@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2026-02-25】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+* 【2026-02-25】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+* 【2026-02-25】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+* 【2026-02-25】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+* 【2026-02-25】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 * 【2026-02-24】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 * 【2026-02-24】[PantsuDango / Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
 * 【2026-02-24】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
@@ -95,16 +100,3 @@
 * 【2026-02-16】[EndlessCheng / codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
 * 【2026-02-16】[wangrongding / wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等...
 * 【2026-02-16】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - Bili23 Downloader 是一款跨平台（Windows/Linux/macOS）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。支持多线程加速、断点续传等特性，搭配图形化界面与零配置操作，提供高效便捷的下载体验。
-* 【2026-02-15】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
-* 【2026-02-15】[sngyai / Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
-* 【2026-02-15】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-* 【2026-02-15】[Moli-X / Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
-* 【2026-02-15】[continew-org / continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥页面现代美观，且专注设计与代码细节的高质量多租户中后台管理系统框架。开箱即用，持续迭代优化，持续提供舒适的开发体验。当前采用技术栈：SpringBoot v3.4.x (Java17)、Vue3 & ArcoDesign、TS、Vite5 、SaToken、MyBatisPlus、Redisson、FastExcel、CosId、JetCache、JustAuth、Crane4j、SpringDoc、Hutool 等。 AI 编程纪元，从 ContiNew & AI 开始优雅编码，让 AI 也“吃点好的”。
-* 【2026-02-15】[zan8in / afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
-* 【2026-02-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
-* 【2026-02-15】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
-* 【2026-02-15】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
-* 【2026-02-15】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
-* 【2026-02-15】[glKarin / com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android
-* 【2026-02-15】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨
-* 【2026-02-15】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
