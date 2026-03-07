@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2026-03-07】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+* 【2026-03-07】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+* 【2026-03-07】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+* 【2026-03-07】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+* 【2026-03-07】[RapidAI / RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, MNN, PaddlePaddle and PyTorch.
+* 【2026-03-07】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
+* 【2026-03-07】[521xueweihan / GitHub520](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+* 【2026-03-07】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2026-03-06】[xugaoyi / vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 * 【2026-03-06】[stupidloud / nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
 * 【2026-03-06】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
@@ -60,18 +68,6 @@
 * 【2026-02-26】[MuiseDestiny / zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
 * 【2026-02-26】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 * 【2026-02-26】[yangzongzhuan / RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
-* 【2026-02-25】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-* 【2026-02-25】[RapidAI / RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, MNN, PaddlePaddle and PyTorch.
-* 【2026-02-25】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
-* 【2026-02-25】[521xueweihan / GitHub520](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-* 【2026-02-25】[Moli-X / Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
-* 【2026-02-25】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - Open-source Chart2BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的AI报表工具和大屏！完全在线傻瓜式AI设计，高效降低报表开发难度，解决各类报表难题。
-* 【2026-02-25】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
-* 【2026-02-25】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
-* 【2026-02-25】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-* 【2026-02-25】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-* 【2026-02-25】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-* 【2026-02-25】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 * 【2026-02-23】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / moltbot / openclaw
 * 【2026-02-23】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 * 【2026-02-23】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
