@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2026-04-01】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+* 【2026-04-01】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+* 【2026-04-01】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
+* 【2026-04-01】[Evil0ctal / Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
+* 【2026-04-01】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+* 【2026-04-01】[wangrongding / wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等...
+* 【2026-04-01】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
+* 【2026-04-01】[krahets / hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+* 【2026-04-01】[rebase-network / who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
+* 【2026-04-01】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+* 【2026-04-01】[tangly1024 / NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 * 【2026-03-31】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2026-03-31】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
 * 【2026-03-31】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
@@ -105,19 +116,6 @@
 * 【2026-03-23】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。
 * 【2026-03-23】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
 * 【2026-03-23】[alibaba / higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
-* 【2026-03-22】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
-* 【2026-03-22】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
-* 【2026-03-22】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-* 【2026-03-22】[krahets / hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-* 【2026-03-22】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
-* 【2026-03-22】[dromara / RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
-* 【2026-03-22】[rebase-network / who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
-* 【2026-03-22】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-* 【2026-03-22】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-* 【2026-03-22】[tangly1024 / NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-* 【2026-03-22】[knownsec / 404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-* 【2026-03-22】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
-* 【2026-03-22】[Evil0ctal / Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 * 【2026-02-22】[xrayfree / free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) - 长期免费维护 VLESS/ VMess / Trojan / SS / V2RAY / VPN / CLASH / 小火箭 免费节点订阅链接！电报群：https://t.me/xrayfree
 * 【2026-02-22】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2026-02-22】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
