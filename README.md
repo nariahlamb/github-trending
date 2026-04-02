@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2026-04-02】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android。
+* 【2026-04-02】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator 支持Windows Linux macOS
+* 【2026-04-02】[JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+* 【2026-04-02】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 开源的报表工具与BI大屏，可替代 Tableau 和 JasperReports，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
+* 【2026-04-02】[Qexo / Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
+* 【2026-04-02】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
+* 【2026-04-02】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+* 【2026-04-02】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+* 【2026-04-02】[YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+* 【2026-04-02】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。
+* 【2026-04-02】[alibaba / higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
 * 【2026-04-01】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 * 【2026-04-01】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 * 【2026-04-01】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
@@ -100,22 +111,6 @@
 * 【2026-03-24】[Semporia / TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援 iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 * 【2026-03-24】[glKarin / com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep/Quadrilateral Cowboy/Icarus Starship Command Simulator on Android
 * 【2026-03-24】[youlaitech / vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 Vue 3 + Vite 7+ TypeScript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
-* 【2026-03-23】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator 支持Windows Linux macOS
-* 【2026-03-23】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-* 【2026-03-23】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-* 【2026-03-23】[JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
-* 【2026-03-23】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
-* 【2026-03-23】[YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-* 【2026-03-23】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 开源的报表工具与BI大屏，可替代 Tableau 和 JasperReports，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
-* 【2026-03-23】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
-* 【2026-03-23】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
-* 【2026-03-23】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-* 【2026-03-23】[Tencent / UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.
-* 【2026-03-23】[openctp / openctp](https://github.com/openctp/openctp) - openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
-* 【2026-03-23】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
-* 【2026-03-23】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。
-* 【2026-03-23】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
-* 【2026-03-23】[alibaba / higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
 * 【2026-02-22】[xrayfree / free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) - 长期免费维护 VLESS/ VMess / Trojan / SS / V2RAY / VPN / CLASH / 小火箭 免费节点订阅链接！电报群：https://t.me/xrayfree
 * 【2026-02-22】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2026-02-22】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
