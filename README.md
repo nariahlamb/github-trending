@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2026-04-25】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
+* 【2026-04-25】[Boris-code / feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度
+* 【2026-04-25】[layui / layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
+* 【2026-04-25】[acepanel / panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
+* 【2026-04-25】[Johnshall / Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 * 【2026-04-25】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 * 【2026-04-25】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 * 【2026-04-25】[wgpsec / ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
