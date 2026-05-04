@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-05-04】[didi / mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
+* 【2026-05-04】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
+* 【2026-05-04】[armink / SFUD](https://github.com/armink/SFUD) - An using JEDEC's SFDP standard serial (SPI) flash universal driver library | 一款使用 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库
+* 【2026-05-04】[DSPBluePrints / FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
 * 【2026-05-04】[higress-group / higress](https://github.com/higress-group/higress) - 🤖 AI Gateway | AI Native API Gateway
 * 【2026-05-04】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
 * 【2026-05-02】[glKarin / com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep/Quadrilateral Cowboy/Icarus Starship Command Simulator on Android
