@@ -8,6 +8,18 @@
 
 ## All language
 
+* 【2026-06-07】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
+* 【2026-06-07】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+* 【2026-06-07】[NKUCS-ICU / NKUCS.ICU](https://github.com/NKUCS-ICU/NKUCS.ICU) - 南开大学计网经验指北 | A website for courses of Major Computer Science | NKUCS DOCX | Since 2021
+* 【2026-06-07】[aaa1115910 / bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
+* 【2026-06-07】[haizlin / fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+* 【2026-06-07】[xiaonuobase / Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
+* 【2026-06-07】[rebase-network / who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
+* 【2026-06-07】[qjfoidnh / BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
+* 【2026-06-07】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+* 【2026-06-07】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+* 【2026-06-07】[YSGStudyHards / DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+* 【2026-06-07】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 * 【2026-06-06】[pure-admin / vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 * 【2026-06-06】[OI-wiki / OI-wiki](https://github.com/OI-wiki/OI-wiki) - 🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 * 【2026-06-06】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
@@ -97,15 +109,6 @@
 * 【2026-05-29】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 * 【2026-05-29】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 * 【2026-05-29】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-* 【2026-05-28】[yym68686 / ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.
-* 【2026-05-28】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-* 【2026-05-28】[dqzg12300 / fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
-* 【2026-05-28】[qjfoidnh / BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
-* 【2026-05-28】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
-* 【2026-05-28】[YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-* 【2026-05-28】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
-* 【2026-05-28】[YSGStudyHards / DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
-* 【2026-05-28】[LorisYounger / VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 * 【2026-02-22】[xrayfree / free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) - 长期免费维护 VLESS/ VMess / Trojan / SS / V2RAY / VPN / CLASH / 小火箭 免费节点订阅链接！电报群：https://t.me/xrayfree
 * 【2026-02-22】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2026-02-22】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
