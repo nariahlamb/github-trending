@@ -8,6 +8,23 @@
 
 ## All language
 
+* 【2026-06-12】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
+* 【2026-06-12】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+* 【2026-06-12】[why2lyj / youxiang-Itchat](https://github.com/why2lyj/youxiang-Itchat) - 无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。
+* 【2026-06-12】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
+* 【2026-06-12】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
+* 【2026-06-12】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 开源、免费、跨平台的 B 站视频下载工具，支持多线程加速、音视频分离、弹幕元数据获取、自定义命名与分类等功能。Open Source, Free, Cross-Platform Bilibili Video Downloader.
+* 【2026-06-12】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+* 【2026-06-12】[Evil0ctal / Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
+* 【2026-06-12】[ryanhanwu / How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+* 【2026-06-12】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
+* 【2026-06-12】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+* 【2026-06-12】[dromara / RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
+* 【2026-06-12】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
+* 【2026-06-12】[asLody / VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
+* 【2026-06-12】[wgpsec / ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
+* 【2026-06-12】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
+* 【2026-06-12】[Johnshall / Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 * 【2026-06-11】[auto-novel / auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2026-06-11】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 * 【2026-06-11】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
@@ -101,14 +118,6 @@
 * 【2026-06-03】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
 * 【2026-06-03】[openctp / openctp](https://github.com/openctp/openctp) - openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
 * 【2026-06-03】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-* 【2026-06-02】[Qexo / Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
-* 【2026-06-02】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
-* 【2026-06-02】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
-* 【2026-06-02】[wgpsec / ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
-* 【2026-06-02】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
-* 【2026-06-02】[Johnshall / Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
-* 【2026-06-02】[ayaka14732 / awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
-* 【2026-06-02】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 开源、免费、跨平台的 B 站视频下载工具，支持多线程加速、音视频分离、弹幕元数据获取、自定义命名与分类等功能。Open Source, Free, Cross-Platform Bilibili Video Downloader.
 * 【2026-02-22】[xrayfree / free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) - 长期免费维护 VLESS/ VMess / Trojan / SS / V2RAY / VPN / CLASH / 小火箭 免费节点订阅链接！电报群：https://t.me/xrayfree
 * 【2026-02-22】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2026-02-22】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
