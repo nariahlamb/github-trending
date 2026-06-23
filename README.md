@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2026-06-23】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+* 【2026-06-23】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
+* 【2026-06-23】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+* 【2026-06-23】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+* 【2026-06-23】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
+* 【2026-06-23】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+* 【2026-06-23】[wgpsec / ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
+* 【2026-06-23】[glKarin / com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep/Quadrilateral Cowboy/Icarus Starship Command Simulator on Android
+* 【2026-06-23】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+* 【2026-06-23】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
+* 【2026-06-23】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。
 * 【2026-06-22】[lxgw / LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 * 【2026-06-22】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
 * 【2026-06-22】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
@@ -94,15 +105,6 @@
 * 【2026-06-14】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 * 【2026-06-14】[JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
 * 【2026-06-14】[coolsnowwolf / lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
-* 【2026-06-13】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-* 【2026-06-13】[sonofmagic / weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !
-* 【2026-06-13】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-* 【2026-06-13】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
-* 【2026-06-13】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem.
-* 【2026-06-13】[dromara / dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).
-* 【2026-06-13】[opsre / go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
-* 【2026-06-13】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-* 【2026-06-13】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 * 【2026-02-22】[xrayfree / free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) - 长期免费维护 VLESS/ VMess / Trojan / SS / V2RAY / VPN / CLASH / 小火箭 免费节点订阅链接！电报群：https://t.me/xrayfree
 * 【2026-02-22】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2026-02-22】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
