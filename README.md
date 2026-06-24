@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-06-24】[dream7180 / foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
+* 【2026-06-24】[bufanyun / hotgo](https://github.com/bufanyun/hotgo) - HotGo 是AI 赋能企业级全栈前后端分离开发及移动应用基础平台，基于 Vue 和 GoFrame2.0 构建；内置 AI 开发规范、适配主流 AI 开发工具，人机协同高效开发。集成 jwt 鉴权、动态路由菜单、casbin 鉴权、消息队列、定时任务等功能，预置各类常用场景文件，助力专注业务开发。
+* 【2026-06-24】[zan8in / afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 * 【2026-06-24】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 * 【2026-06-24】[lizhipay / acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 * 【2026-06-24】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
