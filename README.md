@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-06-25】[TencentBlueKing / blueking-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云 PaaS 平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
+* 【2026-06-25】[didi / mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
+* 【2026-06-25】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 * 【2026-06-25】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
 * 【2026-06-25】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 * 【2026-06-25】[Evil0ctal / Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
