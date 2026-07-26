@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2026-07-26】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+* 【2026-07-26】[521xueweihan / GitHub520](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+* 【2026-07-26】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+* 【2026-07-26】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
+* 【2026-07-26】[qjfoidnh / BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
+* 【2026-07-26】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2026-07-25】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2026-07-25】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 * 【2026-07-25】[zjhellofss / KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
@@ -69,18 +75,6 @@
 * 【2026-07-17】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator 支持Windows Linux macOS
 * 【2026-07-17】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2026-07-17】[layui / layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
-* 【2026-07-16】[digoal / blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
-* 【2026-07-16】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
-* 【2026-07-16】[1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-* 【2026-07-16】[jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-* 【2026-07-16】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-* 【2026-07-16】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-* 【2026-07-16】[521xueweihan / GitHub520](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-* 【2026-07-16】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
-* 【2026-07-16】[qjfoidnh / BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
-* 【2026-07-16】[XIU2 / CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
-* 【2026-07-16】[ccfos / nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
-* 【2026-07-16】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
 * 【2026-02-23】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / moltbot / openclaw
 * 【2026-02-23】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 * 【2026-02-23】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
