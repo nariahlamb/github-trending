@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-08-07】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+* 【2026-08-07】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 * 【2026-08-07】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
 * 【2026-08-07】[acepanel / panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
 * 【2026-08-06】[ikuaitu / vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
