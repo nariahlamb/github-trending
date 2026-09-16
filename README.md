@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-09-16】[robertying / learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native. ⚛️
+* 【2026-09-16】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+* 【2026-09-16】[yuesong-feng / 30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
 * 【2026-09-16】[digoal / blog](https://github.com/digoal/blog) - AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://github.com/digoal/blog
 * 【2026-09-16】[aoaostar / legado](https://github.com/aoaostar/legado) - 阅读APP书源
 * 【2026-09-15】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
