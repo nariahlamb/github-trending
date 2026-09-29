@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-09-29】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
+* 【2026-09-29】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android。
 * 【2026-09-28】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2026-09-28】[mli / autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 * 【2026-09-28】[sngyai / Sequoia-X](https://github.com/sngyai/Sequoia-X) - A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
@@ -68,9 +70,6 @@
 * 【2026-09-21】[Johnshall / Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 * 【2026-09-20】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
 * 【2026-09-20】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-* 【2026-09-19】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android。
-* 【2026-09-19】[xushier / HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率）
-* 【2026-09-19】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 * 【2026-02-23】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / moltbot / openclaw
 * 【2026-02-23】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 * 【2026-02-23】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
