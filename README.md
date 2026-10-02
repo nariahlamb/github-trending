@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2026-10-02】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 Screenshot Offline OCR Search Translate Search for picture Paste the picture on the screen Screen recorder Omnidirectional scrolling screenshot Screen translator 支持Windows Linux macOS
+* 【2026-10-02】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
+* 【2026-10-02】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
+* 【2026-10-02】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+* 【2026-10-02】[jitwxs / 163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
 * 【2026-10-01】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 * 【2026-10-01】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 * 【2026-10-01】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
@@ -90,10 +95,6 @@
 * 【2026-09-23】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * 【2026-09-23】[immersive-translate / immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 * 【2026-09-23】[asLody / VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
-* 【2026-09-22】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
-* 【2026-09-22】[xszyou / Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
-* 【2026-09-22】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
-* 【2026-09-22】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 * 【2026-08-24】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2026-08-24】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 开源、免费、跨平台的 B 站视频下载工具，支持多线程加速、音视频分离、弹幕元数据获取、自定义命名与分类等功能。Open Source, Free, Cross-Platform Bilibili Video Downloader.
 * 【2026-08-24】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow
