@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2026-10-08】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+* 【2026-10-08】[qjfoidnh / BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
+* 【2026-10-08】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
+* 【2026-10-08】[immersive-translate / immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+* 【2026-10-08】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+* 【2026-10-08】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+* 【2026-10-08】[RayWangQvQ / BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
 * 【2026-10-07】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 * 【2026-10-07】[521xueweihan / GitHub520](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 * 【2026-10-07】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
@@ -85,13 +92,6 @@
 * 【2026-09-29】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 * 【2026-09-29】[ClimbSnail / HoloCubic_AIO](https://github.com/ClimbSnail/HoloCubic_AIO) - HoloCubic超多功能AIO固件 基于esp32-arduino的天气时钟、相册、视频播放、桌面投屏、web服务、bilibili粉丝等
 * 【2026-09-29】[knownsec / 404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-* 【2026-09-28】[lizhipay / acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-* 【2026-09-28】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-* 【2026-09-28】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
-* 【2026-09-28】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-* 【2026-09-28】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
-* 【2026-09-28】[xifangczy / cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-* 【2026-09-28】[Paving-Base / APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
 * 【2026-08-24】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2026-08-24】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 开源、免费、跨平台的 B 站视频下载工具，支持多线程加速、音视频分离、弹幕元数据获取、自定义命名与分类等功能。Open Source, Free, Cross-Platform Bilibili Video Downloader.
 * 【2026-08-24】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow
