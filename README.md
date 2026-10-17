@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-10-17】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 * 【2026-10-16】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
 * 【2026-10-16】[lonePatient / awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) - Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合
 * 【2026-10-16】[aoaostar / legado](https://github.com/aoaostar/legado) - 阅读APP书源
@@ -68,9 +69,6 @@
 * 【2026-10-08】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * 【2026-10-08】[sngyai / Sequoia-X](https://github.com/sngyai/Sequoia-X) - A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 * 【2026-10-08】[knownsec / 404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-* 【2026-10-07】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
-* 【2026-10-07】[immersive-translate / immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-* 【2026-10-07】[RayWangQvQ / BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
 * 【2026-02-23】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / moltbot / openclaw
 * 【2026-02-23】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 * 【2026-02-23】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
