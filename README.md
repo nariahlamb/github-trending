@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-10-26】[lgc-NB2Dev / nonebot-plugin-bawiki](https://github.com/lgc-NB2Dev/nonebot-plugin-bawiki) - A nonebot2 plugin for Blue Archive.
+* 【2026-10-26】[jeequan / jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 * 【2026-10-26】[aoaostar / legado](https://github.com/aoaostar/legado) - 阅读APP书源
 * 【2026-10-26】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
 * 【2026-10-25】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
